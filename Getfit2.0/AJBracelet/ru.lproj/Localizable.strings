@@ -1,0 +1,422 @@
+
+"App error, exit soon" = "Ошибка программы, осуществляется выход"; //无需注意长度
+"Mainpage" = "Главная";
+"Details" = "Подробно";
+"Device" = "Устройство";
+"User" = "Пользователь";
+"Cancel" = "Отмена";
+"Confirm" = "Ок";
+"Setting" = "Настройки";
+"Today" = "Сегодня";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "Данные сохранены, но не отправлены на устройство, пожалуйста, проверьте подключение и отправьте их снова"; //无需注意长度
+"Ble Data Send Time Out" = "Ошибка";
+"Device Ble data written failed" = "Ошибка";
+"No Data" = "Нет данных ";
+"Network access error, please check the network connectivity, please try again later" = "Превышено время ожидания, пожалуйста, проверьте соединение с интернетом, повторите попытку позже"; //无需注意长度
+"Y" = "Год";
+"M" = "Месяц";
+"D" = "День";
+"H" = "Час";
+"Hour" = "час";
+
+"Min" = "Мин.";
+"Minutes" = "Мин.";
+"S" = "С.";
+"Step" = "Шагов";
+
+"KM" = "км";
+"MI" = "ми";
+
+"Cal" = "Калории";
+"Calorie" = "Калории";
+"kCal" = "ккал";
+
+"Goal Setting" = "Установки цели";
+"unsync " = "Бр.";
+"Firmware version" = "Версия прошивки";
+"Firmware version:V" = "Заряд батареи:V";
+"Battery remaining" = "Заряд батареи";
+"Data synced at" = "синхронизации времени"; // +
+
+"Heart Rate" = "Пульс";
+
+"Call Alert" = "Вызов";
+"Sedentary Alert" = "Активность";
+"Alarm Alert" = "Будильник";
+"ON" = "Вкл";
+"OFF" = "Выкл";
+"Unbind Success" = "Отменено";
+"Multi-Lists" = "Мульти-список";
+"Unbind" = "Отмена сопряжения";
+"Pair Device" = "Соединение";
+"Device Name" = "Имя устройства"; // +
+
+"MaxHeart" ="Макс.";
+"MinHeart" ="Мин.";
+"AverageHeart" ="Средний";
+"Heart" = "Пульс";
+
+"Connect Device" = "Подключить устройство";
+"Add Device" = "Добавить устройство";
+"Refresh" = "Поиск";
+"Confirm Bind Device" = "Подтвердить сопряжение";
+"Search Failed, click the icon to refresh searching the device" = "Ошибка, попробуйте еще раз"; //无需注意长度
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "Убедитесь, что на устройстве включена передача по Bluetooth"; //无需注意长度
+"Searching" = "Поиск устройств";
+"Can Update" = "Обновить";
+"Latest Version" = "Последняя версия";
+"User Profile" = "Личная информация";
+"Boy" = "Мужчина";
+"Girl" = "Женщина";
+"Last" = "Назад";
+"Next" = "Далее";
+"Metric" = "Метры";
+"British" = "Дюймы";
+"Weight" = "Вес";
+"Sports Target" = "Цель";
+"Daily Target" = "Цель на день";
+
+"Sleep Target" = "Сон";
+"Birth" = "ДР";
+"Done" = "Готово";
+"Personal Profile" = "Мои данные";
+"Username" = "Имя";
+"Gender" = "Пол";
+"Birthday" = "ДР";
+"Height" = "Рост";
+"Weight" = "Вес";
+"Daily Target" = "Цель на день";
+"Target Setting" = "Цели";
+"My info" = "Мои данные";
+"Please type in your name" = "Введите имя";
+// 升级
+"System Setting" = "Настройки";
+"Device Update" = "Обновление устройства";
+"Current Version" = "Текущая версия прошивки";
+"Update details" = "Информация об обновлении";
+"connecting device" = "Соединение";
+"Please choose a device..." = "Выберите устройство";
+"Auto Update" = "Автоматическое обновление";
+"Update Now" = "Обновить";
+"Downloading and Updating" = "Обновление скачивается";
+"Updating" = "Идёт обновление";
+"Prepare for update" = "Подготовка к обновлению";
+"Connecting" = "Соединение";
+"Disconnecting" = "Разъединение";
+"Update Complete" = "Обновление завершено";
+"Low power, unable to update" = "Заряд батареи слишком низкий, обновление невозможно";
+"Not support for update " = "Обновление не поддерживается";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "Ошибка при обновлении, пожалуйста, дождитесь выхода из режима обновления и попробуйте снова";
+" Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "Пожалуйста, проверьте уровень заряда батареи \n весь процесс займёт около 5 мин. \n не отключайте соединение при обновлении";
+
+"Weather On/OFF" = "Погода";
+"Unit Set" = "Единицы";
+"Sports Medal" = "Спортивные достижения";
+"Daily Time Notice" = "Ежедневное напоминание";
+"About Us" = "О нас";
+"APP Version" = "Версия программы";
+"Normal Problem" = "FAQ";
+"Distance" = "Расстояние";
+"Total distance" = "Общее расстояние";
+"Temp" = "Температура";
+"This smart phone not support Bluetooth" = "Это устройство не поддерживает технологию Bluetooth";
+"Call Alert" = "Вызов";
+"SMS Alert" = "Сообщение";
+"Wechat Alert" = "Сообщение из Wechat";
+"Email Alert" = "Входящая почта";
+"QQ Alert" = "Сообщение из QQ";
+"Anti-lost Alert" = "Защита от потери";
+"Music Control" = "Управление музыкой";
+"One Key Call" = "Вызов в один клик";
+"Photograph" = "Фото";
+"All Day Sync" = "Автоматическая синхронизация весь день";
+"Device Update" = "Обновление устройства";
+"Find Wristband" = "Найти браслет";
+"Find Phone" = "Найти телефон";
+"Alarm List Setting" = "Устанавливаемый будильник";
+"Add Alarm List" = "Добавить будильник";
+"3 alarm lists could be added" = "Можно установить максимум 3 сигналов будильника";
+"Alert" = "Напоминание";
+"Repeat" = "Повторить";
+"Time" = "Время";
+"Total time" = "Общее время";
+"Name" = "Название";
+"Please remind me during this time" = "Напомнить мне в это время";
+"Mon" = "Пн";
+"Tue" = "Вт";
+"Wed" = "Ср";
+"Thu" = "Чт";
+"Fri" = "Пт";
+"Sat" = "Сб";
+"Sun" = "Вс";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  Вс             Пн              Вт              Ср              Чт               Пт             Сб";
+
+"Remind name is as more as 6 words" = "Название напоминания должно содержать не более 6 слов";
+"am" = "am";
+"pm" = "pm";
+"Sedentary Alert" = "Напоминание об активности";
+"Start" = "Старт";
+"End" = "Конец";
+"Pull-down Refresh" = "Потяните вниз для обновления";
+"Release Refresh" = "Обновить";
+"Synced" = "Синхронизировано";
+"go to The Day" = "Посмотреть этот день";
+"back to Today" = "Вернуться в этот день";
+
+"Deep Sleep/min" = "Глубокий сон/мин";
+"Light Sleep/min" = "Неглубокий сон/мин";
+"Awake Hours/min" = "Пробуждение во время сна/мин";
+"Deep Sleep" = "Глуб. сон";
+"Light Sleep" = "Неглуб. сон";
+"Awake Sleep" = "Пробужд.";
+
+"Week" = "Н";
+"Month" = "М";
+"Year" = "Г";
+"Activities" = "Активность";
+"Sleep" = "Сон";
+"Total" = "Общее";
+"Deep" = "Глубокий";
+"Light" = "Неглубокий";
+
+"Profile Photo Setting" = "Настроить фото в профиле";
+"Remove photo" = "Удалить фото";
+"Choose Current Photo" = "Выбрать фото";
+"Take Photo" = "Сделать снимок";
+
+"Unbind the device? \nData waitting for sync will be lost." = "Отменить сопряжение?\n вся не синхронизированная информация будет утеряна。"; //无需注意长度
+"Delete Device" = "Удалить устройство";
+"Delete" = "Удалить";
+
+// 拍照
+"Photograph setting" = "Настройки фото";
+"device upgrade" = "Обновление устройства";
+"Continuous Shoot" = "Серия снимков";
+"Interval" = "Интервал";
+"s" = "сек";
+"pc" = "фото";
+"Choose a pic from album" = "Галерея";
+"After a call come in" = "Входящий вызов";
+"s Band vibrates to remind" = "секунд до вибрации";
+"Everyday" = "Ежедневно";
+"Go to sleep" = "Сон";
+"Get Up" = "Подъём";
+"Exercise" = "Упражнения";
+"Dating" = "Свидание";
+"Party" = "Встреча";
+"Meeting" = "Собрание";
+"Take Medication" = "Приём лекарства";
+"Custom" = "Настройка пользователем";
+"The current is latest version." = "Это самая новая версия";
+"Anti-lost Setting Done" = "Защита от потери настроена";
+"Synchronizing" = "Происходит синхронизация";
+"Bind OK" = "Сопряжение";
+"Bind Success" = "Сопряжение произведено";
+"%ldMin" = "%ldмин";
+"%dMin" = "%dмин";
+"Cancel" = "Отмена";
+"Please connect to the device" = "Подключите устройство";
+"Device not Connected" = "Устройство не подключено";
+"Share" = "Поделиться";
+"Friends" = "Круг друзей";
+"Wechat" = "Wechat";
+"Network Error" = "Проблемы с интернет соединением";
+"Signal Strength" = "Уровень сигнала";
+"Please confirm:" = "Подтвердите сопряжение:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1.Устройство должно быть включено \n2. Bluetooth на телефоне включен \n3. Устройство находится в районе 10 метров от телефона";
+"Searching device..." = "Поиск устройств....";
+"Skip" = "Дальше";
+
+"Week Distance" = "Дистанция";
+"Week Steps" = "Шаги";
+"Week Calories" = "Калории";
+"Average Distance" = "Ср. Дистанция";
+"Average Steps" = "Ср. Шаги";
+"Average Calories" = "Ср. Калории";
+"Month Distance" = "Дистанция";
+"Month Steps" = "Шаги";
+"Month Calories" = "Калории";
+"Year Distance" = "Дистанция";
+"Year Steps" = "Шаги";
+"Year Calories" = "Калории";
+"Average Sleep" = "Среднее";
+"Average Deep" = "Глубокий";
+"Average Light" = "Неглубокий";
+"Start Time" = "Начало";
+
+"Sleep Start Time" = "Начало";
+"End Time" = "Конец";
+"Sleep End Time" = "Конец";
+"Awake Time" = "Активность";
+"MultiLists" = "Мульти-список";
+"Single group" = "Несколько групп";
+"Multi-Lists" = "Одна группа";
+
+"Restart Device" = "Перезагрузить устройство";
+"Back" = "Назад";
+"Scanning" = "Сканирую";
+
+"Already Latest Version" = "Это последняя версия";
+"Get Logs" = "Получить дневник";
+"Setting Done" = "Настройки применены";
+"Functions" =  "Функции";
+"User Manual" = "Руководство по эксплуатации";
+"Version ID" =  "Номер версии:";
+"APP Version" = "Версия программы";
+"Device under low power" = "Низкий заряд батареи";
+"Remind after" = "Напомнить об активности";
+"Remind Time" = "Интервал";
+"mins without movement" = "мин. без движения";
+
+"Total cost" = "общая стоимость";
+
+"Device is under low battery" = "Низкий уровень заряда батареи.";
+"Update Failed" =  "Ошибка при обновлении.";
+"Automatically Syncing" = "Автоматическая синхронизация";
+"Manual Syncing" = "Синхронизация вручную";
+"Please Wait"  =  "Пожалуйста, подождите";
+"Device not paired" =  "Устройство не подключено";
+"Reboot Done" =   "Произведена перезагрузка";
+"Update Done" =   "Обновление завершено";
+"Reboot the device? Data will be synced before reboot" =  "Перезагрузить устройство?";
+"Confirm Reboot" =  "Подтвердить перезагрузку";
+"Sync Failed" = "Ошибка при синхронизации";
+"Current version is the latest version" =  "Это последняя версия";
+"Current version is the latest version" =  "Это последняя версия";
+"Please pair the device" = "Пожалуйста, подключите устройство";
+"Update Done" =  "Выполнено";
+"Congratulations! Update successfully!" =  "Поздравляем Вас! Обновление успешно установлено"; //无需注意长度
+
+"Sync Done" =  "Синхронизировано";
+"Feet" =  "Футы";
+"Pound" =  "Фунты";
+
+// 聊天界面模块
+"Send" = "Отправить";
+"Server connection failed" = "Ошибка при соединении с сервером"; //无需注意长度
+"Log in" = "Войти";
+"Username and password \n can not be empty" = "Поля имени и пароля должны \n быть заполнены"; //无需注意长度
+"Forgot password" = "Восстановить пароль";
+"Registered" = "Регистрация";
+"Username:" = "Имя пользователя:";
+"Email:" = "Почтовый ящик:";
+"Please enter 4-18 digits \n or letters username" = "Пожалуйста, введите имя пользователя из \n 4-18 цифр или букв"; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = "Введите пароль из \n 6-18 цифр или букв"; //无需注意长度
+"The two passwords do not match" = "Пароли не совпадают"; //无需注意长度
+"Email wrong format" = "неправильный формат адреса почтового ящика"; //无需注意长度
+"Password:" = "Пароль:";
+"RepeatPSD:" = "Повторите пароль:";
+"Password has been sent to your mailbox" = "Пароль отправлен Вам на почтовый ящик"; //无需注意长度
+"OK" = "Подтвердить";
+"Codes has been sent" = "код проверки  было отправлено"; // + //无需注意长度
+"Codes" = "проверки кода"; // +
+
+"Tourism" = "Путешествия";
+"Scan QR code" = "Сканирование QR-кода";
+"SearchID" = "Поиск по номеру";
+"Create group" = "Создать группу";
+"Search" = "Поиск";
+"Join" = "Присоединиться";
+"Contacts" = "Контакты";
+"Select Contacts" = "Выбрать из контактов";
+"Search for contacts" = "Поиск в контактах";
+"The group is not found , make sure \n the group account after retries" = "Группа не найдена, пожалуйста проверьте \n номер группы и повторите попытку"; //无需注意长度
+"Edit group information" = "Редактировать информацию в группе";
+"Failed to update group information" = "Ошибка при обновлении информации в группе"; //无需注意长度
+"Close" = "Закрыть";
+"Updates Success" = "Обновление информации завершено"; //无需注意长度
+"Updates Failed" = "Ошибка"; //无需注意长度
+"Creation Failed" = "Ошибка при создании"; //无需注意长度
+"Creating Success" = "Создание завершено"; //无需注意长度
+"Get group list failed" = "Ошибка при получении группового листа"; //无需注意长度
+"Update group members list failed" = "Ошибка при обновлении списка участников группы"; //无需注意长度
+"Group Name" = "Имя группы";
+"Address" = "Адрес";
+"Explanation" = "О группе";
+
+"Join group" = "Добавиться в группу";
+"Quit Group" = "Выйти из группы";
+"The dissolution of the group" = "Распустить группу";
+"Group No." = "Номер группы";
+"Join the group success" = "Вы добавлены в группу"; //无需注意长度
+"Failure to join the group" = "Не удалось  добавить  группы"; //无需注意长度
+"Successful exits group" = "Вы вышли из группы"; //无需注意长度
+"Exit group fails" = "Ошибка при выходе"; //无需注意长度
+"Success disbanded group" = "Группа распущена"; //无需注意长度
+"The dissolution of the group fails" = "Ошибка при роспуске группы"; //无需注意长度
+"Management group members" = "Управление участниками группы";
+"Group members list" = "Список участников группы";
+"Edit group information" = "Редактирование данных группы";
+"Notice" = "Оповещение";
+"Detail" = "Детали";
+"Group Introduction" = "О группе";
+"people" = "Люди";
+"Submit" = "Внести";
+"Administrator" = "Администратор";
+"Alignment of QR code, \n it can automatically scan" = "Наведите на QR-код, \n  считывание происходит автоматически";
+"Scan success" = "Сканирование завершено"; //无需注意长度
+"Scan fails" = "Ошибка при сканировании"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = "Включить";
+"Turn off" = "Выключить";
+"Group invitation has been sent" = "Группа  направила  приглашение"; //无需注意长度
+"Modify administrator rights fail" = "Нужны права администратора"; //无需注意长度
+"Remove group members fail" = "Не удалось  удалить  членов группы"; //无需注意长度
+"Settings for administrators" = "Администраторы";
+"Undo Administrator" = "Отменить  Администратора";
+"Settings for \n administrators" = "Установить в качестве  \n  Администратора";
+"Undo \n Administrator" = "Отменить  \n  Администратора";
+"Kicked out" = "Выгнан из  группы";
+"Adding members" = "Добавить  членов группы";
+"Management" = "Управление";
+"Lord" = "Главный";
+"Administrator" = "Администратор";
+"Normal group" = "Обычная группа";
+"Multi chat group" = "Мульти-чат";
+"Failure to accept the group invitation" = "Ошибка"; //无需注意长度
+"Joined" = "Присоединились";
+"Ignored" = "Игнорировать";
+"The user is not found , please try again confirm the account" = "Пользователь не найден"; //无需注意长度
+"Own" = "Мои";
+"Friends" = "Друзья";
+"Add friend" = "Добавить в друзья";
+"Wrong username or password" = "Неправильное имя или пароль"; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = "Ошибка"; //无需注意长度
+"Unauthorized" = "Ошибка"; //无需注意长度
+"Forbidden" = "Запрет"; //无需注意长度
+"Internal Server Error" = "Ошибка"; //无需注意长度
+"Gateway Time-out" = "Ошибка"; //无需注意长度
+"User exists" = "Этот пользователь  уже  зарегистрирован"; //无需注意长度
+"Phone exists" = "Зарегистрированный  номер мобильного телефона"; //无需注意长度
+"Email exists" = "Почтовый ящик  уже  зарегистрирован"; //无需注意长度
+"User or password error" = "Неправильное имя или пароль"; //无需注意长度
+"User device changed" = "Оборудование пользователя изменено"; //无需注意长度
+"Captcha has been invalid" = "Код проверки  истек"; //无需注意长度
+"Captcha is wrong" = "Неправильный код подтверждения"; //无需注意长度
+"User not register" = "Этот  пользователь не существует"; //无需注意长度
+"Image is illegal" = "Фотографии  не  законны"; //无需注意长度
+"Group not exists" = "Этот  тур не существует"; //无需注意长度
+"User already join Group" = "Вы уже в группе"; //无需注意长度
+"User not member of Group" = "Пользователь не  присоединиться"; //无需注意长度
+"Unknown error" = "Неизвестная ошибка"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "Вода";
+"Starting time" = "Начало";
+"End Time" = "Завершение";
+"Water" = "Объём";
+"Time interval" = "Интервал";
+"Remind" = "Напомнить";
+"Setting success" = "Выполнено"; //无需注意长度
+
+"Turn the hand" = "Поиск";
+
+
+// 20160912+
+"Times / min" = "Times / min";
+

@@ -1,0 +1,436 @@
+/*
+ Localizable.strings
+ LanguageLocalized
+ 
+ Created by 李琼 on 15/8/28.
+ Copyright (c) 2015年 李琼. All rights reserved.
+ */
+
+
+"App error, exit soon" = "프로그램이 이상 생기다., 로그아웃 중"; //无需注意长度
+"Mainpage" = "홈페이지";
+"Details" = "자세한 정보";
+"Device" = "설비";
+"User" = "내 것";
+"Cancel" = "취소";
+"Confirm" = "확인";
+"Setting" = "설치";
+"Today" = "오늘";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "데이터가 이미 보존하고 설비에 발송하지 않다.설비 정상적 연결 확보하시고 다신 발송 클릭"; //无需注意长度
+"Ble Data Send Time Out" = "데이터 발송 시간 초과";
+"Device Ble data written failed" = "설비 데이터 정상하지 않음";
+"No Data" = "데이터 없음 ";
+"Network access error, please check the network connectivity, please try again later" = "인터넷 방문 시 오류 있음.인터넷 연결 여부를 검사하시고 다시한번 시도하세요"; //无需注意长度
+"Y" = "년";
+"M" = "월";
+"D" = "일";
+"H" = "때";
+"Hour" = "시간";
+
+"Min" = "분";
+"Minutes" = "분";
+"S" = "초";
+"Step" = "걸음";
+
+"KM" = "킬로미터";
+"MI" = "마일";
+
+"Cal" = "칼로리";
+"Calorie" = "칼로리";
+"kCal" = "칼로리";
+
+"Goal Setting" = "목표 설치";
+"unsync" = "동기화하지 않음";
+"Firmware version" = "고정 버전";
+"Firmware version:V" = "고정 버전:V";
+"Battery remaining" = "배터리 잔량";
+"Data synced at" = "同步时间"; // +
+
+"Heart Rate" = "실시 심장 박동율";
+
+"Call Alert" = "전기 오면 알림";
+"Sedentary Alert" = "오래 앉으면 알림";
+"Alarm Alert" = "자체 정의 시계 알림";
+"ON" = "이미 열었음";
+"OFF" = "열지 않음";
+"Unbind Success" = "제약 성공하게 풀었음";
+"Multi-Lists" = "여러 리스트";
+"Unbind" = "제약 해제";
+"Pair Device" = "바인딩 장치";
+"Device Name" = "장치 이름"; // +
+
+"MaxHeart" ="최대 심장 박동율";
+"MinHeart" ="최소 심장 박동율";
+"AverageHeart" ="평균 심장 박동율";
+"Heart" = "심장 박동율";
+
+"Connect Device" = "설비 연결";
+"Add Device" = "설비 첨가";
+"Refresh" = "갱신";
+"Confirm Bind Device" = "설비 연결";
+"Search Failed, click the icon to refresh searching the device" = "탐색 실패,아이콘 클릭하여 다시설비 갱신"; //无需注意长度
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "당신의 블루투스 설비 여는 상태 확보하세요"; //无需注意长度
+"Searching" = "설비 탐색 중";
+"Can Update" = "갱신 가능";
+"Latest Version" = "최신 버전";
+"User Profile" = "개인 정보";
+"Boy" = "남";
+"Girl" = "여";
+"Last" = "지반 걸음";
+"Next" = "다음 걸음";
+"Metric" = "미터법";
+"British" = "야드파운드법";
+"Weight" = "무게";
+"Sports Target" = "운동 목표";
+"Daily Target" = "매일 목표";
+
+"Sleep Target" = "수면 목표";
+"Birth" = "출생";
+"Done" = "완성";
+"Personal Profile" = "개인자료";
+"Username" = "사용자";
+"Gender" = "성별";
+"Birthday" = "생일";
+"Height" = "키";
+"Weight" = "무게";
+"Daily Target" = "매일목표";
+"Target Setting" = "목표 설정";
+"My info" = "개인자료";
+"Please type in your name" = "이름을 입력하십시오";
+// 升级
+"System Setting" = "시스템 설치";
+"Device Update" = "설비갱신";
+"Current Version" = "현재 버전";
+"Update details" = "갱신 내용";
+"connecting device" = "현재 버전";
+"Please choose a device..." = "장치를 선택하십시오...";
+"Auto Update" = "자동 업그레이드";
+"Update Now" = "즉시 업데이트";
+"Downloading and Updating" = "업그레이드 파일 다운로드 중";
+"Updating" = "지금 업그레이드";
+"Prepare for update" = "준비 업그레이드";
+"Connecting" = "연결 중";
+"Disconnecting" = "연결 해제 중";
+"Update Complete" = "승급 완료v";
+"Low power, unable to update" = "전기량 과소 못 업그레이드";
+"Not support for update " = "지원하지 않는 업그레이드";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "업그레이드 실패,설비 업그레이드 모식 로그아웃 후 다시 시도하세요";
+" Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "당신의 설비 충전 충만 확인하세요\n전체 과정 약5분 지속 \n업그레이드 과정에 연결에 끊지 마세요";
+
+"Weather On/OFF" = "날씨 스위치";
+"Unit Set" = "단위 설치";
+"Sports Medal" = "운동 성적 알림";
+"Daily Time Notice" = "매일의 통지";
+"About Us" = "우리에 관한";
+"APP Version" = "APP버전";
+"Normal Problem" = "빈번한 질문";
+"Distance" = "빈번한 질문";
+"Total distance" = "누계 거리";
+"Temp" = "온도";
+"This smart phone not support Bluetooth" = "이 핸드폰이 불루투스에 지지하지 않다";
+"Call Alert" = "콜 알림";
+"SMS Alert" = "메시지 알림";
+"Wechat Alert" = "위채트 알림";
+"Email Alert" = "이메일 알림";
+"QQ Alert" = "QQ알림";
+"Anti-lost Alert" = "유실 방지 알림";
+"Music Control" = "음악 통제";
+"One Key Call" = "한번 클릭 호출";
+"Photograph" = "사진촬영";
+"All Day Sync" = "하루 자동갱신";
+"Device Update" = "설비갱신";
+"Find Wristband" = "손잡이찾기";
+"Find Phone" = "핸드폰 찾기";
+"Alarm List Setting" = "자체 정의 시계 알림";
+"Add Alarm List" = "시계 알림 첨가";
+"3 alarm lists could be added" = "기껏해야 세 가지 자명종 정말 추가";
+"Alert" = "알림";
+"Repeat" = "충복";
+"Time" = "시간";
+"Total time" = "누계 시간";
+"Name" = "명칭";
+"Please remind me during this time" = "이 시간에 나를 알림";
+"Mon" = "월요일";
+"Tue" = "화요일";
+"Wed" = "수요일";
+"Thu" = "목요일";
+"Fri" = "금요일";
+"Sat" = "토요일";
+"Sun" = "일요일";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  월요일             월요일               화요일              수요일              목요일               금요일             토요일";
+
+"Remind name is as more as 6 words" = "알림 명칭 가장 많아도 6개 글씨";
+"am" = "오전";
+"pm" = "오후";
+"Sedentary Alert" = "오래 앉으면 알림";
+"Start" = "시작";
+"End" = "마침";
+"Pull-down Refresh" = "하락 갱";
+"Release Refresh" = "석방 갱신";
+"Synced" = "이미 동기화";
+"go to The Day" = "이 날 조회";
+"back to Today" = "오늘로 되돌아";
+
+"Deep Sleep/min" = "심도 수면/분";
+"Light Sleep/min" = "약한 정도 수면";
+"Awake Hours/min" = "맑은 수면";
+"Deep Sleep" = "깊이 수면";
+"Light Sleep" = "얕은 잠 도";
+"Awake Sleep" = "정신 수면";
+
+"Week" = "주";
+"Month" = "월";
+"Year" = "년";
+"Activities" = "활동";
+"Sleep" = "수면";
+"Total" = "총 수면";
+"Deep" = "심도 수면";
+"Light" = "약한 수면";
+
+"Profile Photo Setting" = "기본 자료 사진 설치";
+"Remove photo" = "사진 제거";
+"Choose Current Photo" = "사진 선택";
+"Take Photo" = "사진 촬영";
+
+"Unbind the device? \nData waitting for sync will be lost." = "설비 묶기 해제?\n모든 기동화하지 않는 데이터 유실。"; //无需注意长度
+"Delete Device" = "설비 삭제";
+"Delete" = "삭제";
+
+// 사진
+"Photograph setting" = "사진 촬영 설치";
+"device upgrade" = "설비업그레이드";
+"Continuous Shoot" = "연속 촬영";
+"Interval" = "간격";
+"s" = "초";
+"pc" = "장";
+"Choose a pic from album" = "현재 사진 선택";
+"After a call come in" = "전화 현시";
+"s Band vibrates to remind" = "초 후 손잡이 알림 시작";
+"Everyday" = "매일";
+"Go to sleep" = "잠 자기";
+"Get Up" = "일어나다";
+"Exercise" = "운동";
+"Dating" = "약속";
+"Party" = "모임";
+"Meeting" = "회의";
+"Take Medication" = "약 먹기";
+"Custom" = "자체 정의";
+"The current is latest version." = "이미 최신 버전";
+"Anti-lost Setting Done" = "유실 방지가 성공하게 설치되었음";
+"Synchronizing" = "자동으로 데이터 동기화 중";
+"Bind OK" = "묶기OK ";
+"Bind Success" = "성공하게 묶음";
+"%ldMin" = "%ld분";
+"%dMin" = "%d분";
+"Cancel" = "%d분";
+"Please connect to the device" = "설비 연결하세요";
+"Device not Connected" = "설비 연결하지 않다";
+"Share" = "공유";
+"Friends" = "친구콜";
+"Wechat" = "위채트";
+"Network Error" = "인터넷 잘안됨";
+"Signal Strength" = "신호 강도";
+"Please confirm:" = "설비 묶을 때 확인하세요:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1.묶을 설비가 정상 운영 상태\n2.블루투스 여는 상태\n3.설비와 핸드폰이10미터 내";
+"Searching device..." = "설비 탐색 중...";
+"Skip" = "뛰어넘기";
+
+"Week Distance" = "주 총이수";
+"Week Steps" = "주 총걸음 수";
+"Week Calories" = "주 총소매";
+"Average Distance" = "일균 이수";
+"Average Steps" = "일均걸음";
+"Average Calories" = "일평균 소모";
+"Month Distance" = "월 총 이정";
+"Month Steps" = "월 총 단계";
+"Month Calories" = "월 총 소비";
+"Year Distance" = "년 총 길이";
+"Year Steps" = "년 총걸음 수";
+"Year Calories" = "년 총소모";
+"Average Sleep" = "일본군은 수면";
+"Average Deep" = "일본군은 깊이 자다";
+"Average Light" = "일본군은 겉잠";
+"Start Time" = "평균 자는 시간";
+
+"Sleep Start Time" = "잠을 자는 시";
+"End Time" = "깨는 시간";
+"Sleep End Time" = "깨는 시간";
+"Awake Time" = "일평균 깨는 시간";
+"MultiLists" = "여러 개";
+"Single group" = "단일 팀";
+"Multi-Lists" = "여러 리스트";
+
+"Restart Device" = "설비 리부팅";
+"Back" = "되돌아가기";
+"Scanning" = "스캐닝 중";
+
+"Already Latest Version" = "이미 최신 버전";
+"Get Logs" = "일지 취득";
+"Setting Done" = "설치 성공";
+"Functions" =  "공능 페이지 소개";
+"User Manual" = "사용 안내";
+"Version ID" =  "버전번호:";
+"APP Version" = "프로그램 버전";
+"Device under low power" = "설비가 충분한 전량 없음";
+"Remind after" = "설비가 충분한 전량 없음";
+"Remind Time" = "오래 앉은 시간";
+"mins without movement" = "알림 시작";
+
+"Total cost" = "누계 소모";
+
+"Device is under low battery" = "설비 충분한 전량 없음.";
+"Update Failed" =  "업그레이드 실패.";
+"Automatically Syncing" = "자동 데이터 동기화 중";
+"Manual Syncing" = "수동 데이터 동기화 중";
+"Please Wait"  =  "잠깐만";
+"Device not paired" =  "설비 연결 없음";
+"Reboot Done" =   "리부팅 성공";
+"Update Done" =   "업그레이드 성공";
+"Reboot the device? Data will be synced before reboot" =  "설비 리부팅 여부,설비 리부팅 전에 데이터 동기화";
+"Confirm Reboot" =  "리부팅 확인";
+"Sync Failed" = "동기화 실패";
+"Current version is the latest version" =  "이미 최신 버전이다";
+"Current version is the latest version" =  "이미 최신 버전이다";
+"Please pair the device" = "설비 연결하세요";
+"Update Done" =  "완성";
+"Congratulations! Update successfully!" =  "업그레이드 성공 축하"; //无需注意长度
+
+"Sync Done" =  "동기화 완성";
+"Feet" =  "피트";
+"Pound" =  "파운드";
+
+// 聊天界面模块
+"Send" = "발송";
+"Server connection failed" = "서버 연결 실패"; //无需注意长度
+"Log in" = "등록";
+"Username and password \n can not be empty" = "사용자와 비밀번호가 비면 안됨"; //无需注意长度
+"Forgot password" = "비밀번호 찾기";
+"Registered" = "등기";
+"Username:" = "사용자:";
+"Email:" = "이메일:";
+"Please enter 4-18 digits \n or letters username" = "4-18자리의 숫자나 문자로 구성하는 사용자 입력하세요"; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = "6-18자리의 숫자나 문자로 구성하는 비밀번호 입력하세요"; //无需注意长度
+"The two passwords do not match" = "2번 비밀번호가 일치하지 않음"; //无需注意长度
+"Email wrong format" = "이메일 격식이 틀리다"; //无需注意长度
+"Password:" = "비밀번호:";
+"RepeatPSD:" = "비밀번호 충복:";
+"Password has been sent to your mailbox" = "비밀번호는 이미 당신의 이메일로 보냈음"; //无需注意长度
+"OK" = "확인";
+"Codes has been sent" = "패스워드 이미 보내기"; // + //无需注意长度
+"Codes" = "验证码"; // +
+
+"Tourism" = "여행권";
+"Scan QR code" = "QR코드 스캐닝";
+"SearchID" = "ID조회";
+"Create group" = "여행권 창립";
+"Search" = "탐색";
+"Join" = "가입";
+"Contacts" = "연락한 사람";
+"Select Contacts" = "연락한 사람 조회";
+"Search for contacts" = "연락한 사람 탐색";
+"The group is not found , make sure \n the group account after retries" = "이 팀을 못 찾는다.팀 계좌 확인 후 다시 시도"; //无需注意长度
+"Edit group information" = "팀 정보 편집";
+"Failed to update group information" = "팀 정보 갱신 실패"; //无需注意长度
+"Close" = "닫기";
+"Updates Success" = "갱신 정보 성공"; //无需注意长度
+"Updates Failed" = "업데이트 정보 실패"; //无需注意长度
+"Creation Failed" = "창립 실패"; //无需注意长度
+"Creating Success" = "창립 성공"; //无需注意长度
+"Get group list failed" = "팀 리스트 취득 실패"; //无需注意长度
+"Update group members list failed" = "팀구성원 리스트 갱신 실패"; //无需注意长度
+"Group Name" = "여행권 이름";
+"Address" = "여행권 주소";
+"Explanation" = "설명";
+
+"Join group" = "팀 가입";
+"Quit Group" = "팀 로그아웃";
+"The dissolution of the group" = "팀 해제";
+"Group No." = "팀번호";
+"Join the group success" = "팀 가입 성공"; //无需注意长度
+"Failure to join the group" = "팀 가입 실패"; //无需注意长度
+"Successful exits group" = "팀에 로그아웃 성공"; //无需注意长度
+"Exit group fails" = "팀에 로그아웃 실패"; //无需注意长度
+"Success disbanded group" = "팀 해제 성공"; //无需注意长度
+"The dissolution of the group fails" = "팀 해제 실패"; //无需注意长度
+"Management group members" = "팀 해제 실패";
+"Group members list" = "팀 구성원 리스트";
+"Edit group information" = "팀 정보 편집";
+"Notice" = "통지";
+"Detail" = "자세한 정보";
+"Group Introduction" = "팀 소개";
+"people" = "사람";
+"Submit" = "제출";
+"Administrator" = "관리인";
+"Alignment of QR code, \n it can automatically scan" = "QR코드를 맞춰서 자동으로 스캐닝";
+"Scan success" = "스캐닝 성공"; //无需注意长度
+"Scan fails" = "스캐닝 실패"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = "불 켜";
+"Turn off" = "불";
+"Group invitation has been sent" = "군 초대 이미 보낸"; //无需注意长度
+"Modify administrator rights fail" = "수정 관리자 권한 실패"; //无需注意长度
+"Remove group members fail" = "제거 그룹 구성원 실패"; //无需注意长度
+"Settings for administrators" = "로 설정 관리자";
+"Undo Administrator" = "실행 취소 관리자";
+"Settings for \n administrators" = "설정을 위해 \n 관리자";
+"Undo \n Administrator" = "실행 취소\n 관리자";
+"Kicked out" = "내차다 그룹";
+"Adding members" = "추가 그룹 구성원";
+"Management" = "관리";
+"Lord" = "군주";
+"Administrator" = "관리자";
+"Normal group" = "일반 대중";
+"Multi chat group" = "많이 얘기 군";
+"Failure to accept the group invitation" = "초청을 받고 군 실패"; //无需注意长度
+"Joined" = "已加入";
+"Ignored" = "무시됨";
+"The user is not found , please try again confirm the account" = "찾을 수 없습니다. 이 사용자 ID와 후 다시 확인해 주십시오."; //无需注意长度
+"Own" = "자기";
+"Friends" = "친구";
+"Add friend" = "친구 추가";
+"Wrong username or password" = "사용자 이름이나 암호가 잘못되었습니다."; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = "요청 실패"; //无需注意长度
+"Unauthorized" = "아직 등록"; //无需注意长度
+"Forbidden" = "접근 금지"; //无需注意长度
+"Internal Server Error" = "서버 이상"; //无需注意长度
+"Gateway Time-out" = "네트워크 이상"; //无需注意长度
+"User exists" = "이 사용자가 이미 등록"; //无需注意长度
+"Phone exists" = "핸드폰 번호 이미 등록"; //无需注意长度
+"Email exists" = "메일박스 이미 등록"; //无需注意长度
+"User or password error" = "사용자 이름이나 암호가 잘못되었습니다."; //无需注意长度
+"User device changed" = "사용자 설비를 교체하다"; //无需注意长度
+"Captcha has been invalid" = "패스워드 이미 효력을"; //无需注意长度
+"Captcha is wrong" = "인증 코드 오류"; //无需注意长度
+"User not register" = "이 사용자 존재하지 않는다"; //无需注意长度
+"Image is illegal" = "그림 적법하지 않다"; //无需注意长度
+"Group not exists" = "이 여행 바퀴 존재하지 않는다"; //无需注意长度
+"User already join Group" = "사용자 이미 가입 이 여행 바퀴"; //无需注意长度
+"User not member of Group" = "사용자 아직 가입 이 여행 바퀴"; //无需注意长度
+"Unknown error" = "알 수 없는 오류"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "물 마시는 알림";
+"Starting time" = "시작 시간";
+"End Time" = "마침 시간";
+"Water" = "물 마시는";
+"Time interval" = "시간 간격";
+"Remind" = "제시 여부";
+"Setting success" = "설치 성공"; //无需注意长度
+
+
+"Turn the hand" = "밝은 화면";
+
+
+// 20160912+
+"Times / min" = "Times / min";
+
+
+
+
+
+

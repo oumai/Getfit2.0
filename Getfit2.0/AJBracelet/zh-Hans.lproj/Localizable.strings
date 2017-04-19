@@ -1,0 +1,441 @@
+/*
+ Localizable.strings
+ LanguageLocalized
+ 
+ Created by 李琼 on 15/8/28.
+ Copyright (c) 2015年 李琼. All rights reserved.
+ */
+
+"App error, exit soon" = "程序出现异常, 即将退出"; //无需注意长度
+"Mainpage" = "主页";
+"Details" = "详情";
+"Device" = "设备";
+"User" = "我的";
+"Cancel" = "取消";
+"Confirm" = "确定";
+"Setting" = "设置";
+"Today" = "今天";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "数据已经保存，但未发送到设备，请确保设备正常连接，并点击重新发送"; //无需注意长度
+"Ble Data Send Time Out" = "数据发送超时";
+"Device Ble data written failed" = "设备写入数据不正常";
+"No Data" = "无数据 ";
+"Network access error, please check the network connectivity, please try again later" = "访问网络时出错，请检查网络连接，稍后再试"; //无需注意长度
+"Y" = "年";
+"M" = "月";
+"D" = "日";
+"H" = "时";
+"Hour" = "小时";
+
+"Min" = "分";
+"Minutes" = "分钟";
+"S" = "秒";
+"Step" = "步";
+
+"KM" = "公里";
+"MI" = "英里";
+
+"Cal" = "卡";
+"Calorie" = "卡路里";
+"kCal" = "千卡";
+
+"Goal Setting" = "目标设置";
+"unsync" = "未同步";
+"Firmware version" = "固件版本";
+"Firmware version:V" = "固件版本:V";
+"Battery remaining" = "电池余量";
+"Data synced at" = "同步时间"; // +
+
+"Heart Rate" = "实时心率";
+
+"Call Alert" = "来电提醒";
+"Sedentary Alert" = "久坐提醒";
+"Alarm Alert" = "闹钟提醒";
+"ON" = "已开启";
+"OFF" = "未开启";
+"Unbind Success" = "解绑成功";
+"Multi-Lists" = "多组";
+"Unbind" = "解除绑定";
+"Pair Device" = "绑定设备";
+"Device Name" = "设备名称"; // +
+
+"MaxHeart" ="最大心率";
+"MinHeart" ="最小心率";
+"AverageHeart" ="平均心率";
+"Heart" = "心率";
+
+"Connect Device" = "连接设备";
+"Add Device" = "添加设备";
+"Refresh" = "刷新";
+"Confirm Bind Device" = "确定绑定";
+"Search Failed, click the icon to refresh searching the device" = "搜索失败点击图标再次刷新设备"; //无需注意长度
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "请确保您的设备蓝牙已经开启"; //无需注意长度
+"Searching" = "正在搜索设备";
+"Can Update" = "可更新";
+"Latest Version" = "最新版本";
+"User Profile" = "个人信息";
+"Boy" = "男";
+"Girl" = "女";
+"Last" = "上一步";
+"Next" = "下一步";
+"Metric" = "公制";
+"British" = "英制";
+"Weight" = "体重";
+"Sports Target" = "运动目标";
+"Daily Target" = "每日目标";
+
+"Sleep Target" = "睡眠目标";
+"Birth" = "出生";
+"Done" = "完成";
+"Personal Profile" = "个人资料";
+"Username" = "用户名";
+"Gender" = "性别";
+"Birthday" = "生日";
+"Height" = "身高";
+"Weight" = "体重";
+"Daily Target" = "每日目标";
+"Target Setting" = "目标设定";
+"My info" = "个人资料";
+"Please type in your name" = "请输入姓名";
+// 升级
+"System Setting" = "系统设置";
+"Device Update" = "设备更新";
+"Current Version" = "当前版本";
+"Update details" = "更新内容";
+"connecting device" = "正在连接设备";
+"Please choose a device..." = "请选择设备...";
+"Auto Update" = "自动升级";
+"Update Now" = "马上更新";
+"Downloading and Updating" = "正在下载升级文件";
+"Updating" = "正在升级";
+"Prepare for update" = "准备升级";
+"Connecting" = "连接中";
+"Disconnecting" = "断开中";
+"Update Complete" = "升级完成";
+"Low power, unable to update" = "电量过低，不能升级";
+"Not support for update " = "不支持升级";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "升级失败，请等待设备退出升级模式后再试";
+" Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "请确定您的设备充电充足\n整个过程大约持续5分钟 \n升级过程请勿断开连接";
+
+"Weather On/OFF" = "天气开关";
+"Unit Set" = "单位设置";
+"Sports Medal" = "锻炼成绩通知";
+"Daily Time Notice" = "每日时间通知";
+"About Us" = "关于我们";
+"APP Version" = "APP版本";
+"Normal Problem" = "常见问题";
+"Distance" = "距离";
+"Total distance" = "累计距离";
+"Temp" = "温度";
+"This smart phone not support Bluetooth" = "该手机不支持蓝牙";
+"Call Alert" = "来电提醒";
+"SMS Alert" = "短信提醒";
+"Wechat Alert" = "微信提醒";
+"Email Alert" = "邮件提醒";
+"QQ Alert" = "QQ提醒";
+"Anti-lost Alert" = "防丢提醒";
+"Music Control" = "音乐控制";
+"One Key Call" = "一键呼叫";
+"Photograph" = "拍照";
+"All Day Sync" = "全天候自动更新";
+"Device Update" = "设备更新";
+"Find Wristband" = "寻找手环";
+"Find Phone" = "寻找手机";
+"Alarm List Setting" = "自定义闹钟提醒";
+"Add Alarm List" = "添加闹钟提醒";
+"3 alarm lists could be added" = "最多可添加3条闹钟";
+"Alert" = "提醒";
+"Repeat" = "重复";
+"Time" = "时间";
+"Total time" = "累计时间";
+"Name" = "名称";
+"Please remind me during this time" = "在此时间提醒我";
+"Mon" = "一";
+"Tue" = "二";
+"Wed" = "三";
+"Thu" = "四";
+"Fri" = "五";
+"Sat" = "六";
+"Sun" = "日";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  日             一               二              三              四               五             六";
+
+"Remind name is as more as 6 words" = "提醒名称最多6个字";
+"am" = "上午";
+"pm" = "下午";
+"Sedentary Alert" = "久坐提醒";
+"Start" = "开始";
+"End" = "结束";
+"Pull-down Refresh" = "下拉刷新";
+"Release Refresh" = "释放刷新";
+"Synced" = "已同步";
+"go to The Day" = "查看这一天";
+"back to Today" = "返回今天";
+
+"Deep Sleep/min" = "深度睡眠/分钟";
+"Light Sleep/min" = "浅度睡眠/分钟";
+"Awake Hours/min" = "清醒时长/分钟";
+"Deep Sleep" = "深度睡眠";
+"Light Sleep" = "浅度睡眠";
+"Awake Sleep" = "清醒睡眠";
+
+"Week" = "周";
+"Month" = "月";
+"Year" = "年";
+"Activities" = "活动";
+"Sleep" = "睡眠";
+"Total" = "总睡眠";
+"Deep" = "深睡";
+"Light" = "浅睡";
+
+"Profile Photo Setting" = "设置基本资料照片";
+"Remove photo" = "移除照片";
+"Choose Current Photo" = "选择现有照片";
+"Take Photo" = "拍照";
+
+"Unbind the device? \nData waitting for sync will be lost." = "要解除绑定设备?\n将丢失任何未同步的数据。"; //无需注意长度
+"Delete Device" = "删除设备";
+"Delete" = "删除";
+
+// 拍照
+"Photograph setting" = "拍照设置";
+"device upgrade" = "设备升级";
+"Continuous Shoot" = "连拍";
+"Interval" = "间隔";
+"s" = "秒";
+"pc" = "张";
+"Choose a pic from album" = "选择现有的照片";
+"After a call come in" = "来电";
+"s Band vibrates to remind" = "秒后手环开始提醒";
+"Everyday" = "每天";
+"Go to sleep" = "睡觉";
+"Get Up" = "起床";
+"Exercise" = "锻炼";
+"Dating" = "约会";
+"Party" = "聚会";
+"Meeting" = "会议";
+"Take Medication" = "吃药";
+"Custom" = "自定义";
+"The current is latest version." = "当前已是最新版本";
+"Anti-lost Setting Done" = "防丢设置成功";
+"Synchronizing" = "正在自动同步数据中";
+"Bind OK" = "绑定OK";
+"Bind Success" = "绑定成功";
+"%ldMin" = "%ld分";
+"%dMin" = "%d分";
+"Cancel" = "取消";
+"Please connect to the device" = "请连接设备";
+"Device not Connected" = "设备未连接";
+"Share" = "分享到";
+"Friends" = "微信朋友圈";
+"Wechat" = "微信";
+"Network Error" = "网络不给力";
+"Signal Strength" = "信号强度";
+"Please confirm:" = "绑定设备时请确认:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1.要绑定的设备属于正常开机状态\n2.手机蓝牙已经打开\n3.设备与手机处于10米之内";
+"Searching device..." = "正在搜索设备...";
+"Skip" = "跳过";
+
+"Week Distance" = "周总里程";
+"Week Steps" = "周总步数";
+"Week Calories" = "周总消耗";
+"Average Distance" = "日均里程";
+"Average Steps" = "日均步数";
+"Average Calories" = "日均消耗";
+"Month Distance" = "月总里程";
+"Month Steps" = "月总步数";
+"Month Calories" = "月总消耗";
+"Year Distance" = "年总里程";
+"Year Steps" = "年总步数";
+"Year Calories" = "年总消耗";
+"Average Sleep" = "日均睡眠";
+"Average Deep" = "日均深睡";
+"Average Light" = "日均浅睡";
+"Start Time" = "平均入睡时间";
+
+"Sleep Start Time" = "入睡时间";
+"End Time" = "平均醒来时间";
+"Sleep End Time" = "醒来时间";
+"Awake Time" = "日均清醒";
+"MultiLists" = "多个";
+"Single group" = "单组";
+"Multi-Lists" = "多组";
+
+"Restart Device" = "重启设备";
+"Back" = "返回";
+"Scanning" = "正在扫描";
+
+"Already Latest Version" = "已是最新版本";
+"Get Logs" = "获取日志";
+"Setting Done" = "设置成功";
+"Functions" =  "功能页介绍";
+"User Manual" = "使用指南";
+"Version ID" =  "版本号:";
+"APP Version" = "软件版本";
+"Device under low power" = "设备没有足够电量";
+"Remind after" = "未活动时长达到";
+"Remind Time" = "久坐时间";
+"mins without movement" = "分钟开始提醒";
+
+"Total cost" = "累计消耗";
+
+"Device is under low battery" = "设备没有足够的电量.";
+"Update Failed" =  "升级失败.";
+"Automatically Syncing" = "正在自动同步数据中";
+"Manual Syncing" = "正在手动同步数据中";
+"Please Wait"  =  "稍等片刻";
+"Device not paired" =  "没有设备连接";
+"Reboot Done" =   "重启成功";
+"Update Done" =   "升级成功";
+"Reboot the device? Data will be synced before reboot" =  "是否要重启设备,重启之前会同步数据";
+"Confirm Reboot" =  "确定重启";
+"Sync Failed" = "同步失败";
+"Current version is the latest version" =  "已是最新版本";
+"Current version is the latest version" =  "当前已经是最新版本";
+"Please pair the device" = "请连接设备";
+"Update Done" =  "已完成";
+"Congratulations! Update successfully!" =  "恭喜您升级成功"; //无需注意长度
+
+"Sync Done" =  "同步完成";
+"Feet" =  "英尺";
+"Pound" =  "磅";
+
+// 聊天界面模块
+"Send" = "发送";
+"Server connection failed" = "服务器连接失败"; //无需注意长度
+"Log in" = "登录";
+"Username and password \n can not be empty" = "用户名和密码\n不能为空"; //无需注意长度
+"Forgot password" = "找回密码";
+"Registered" = "注册";
+"Username:" = "用户名:";
+"Email:" = "邮箱:";
+"Please enter 4-18 digits \n or letters username" = "请输入4-18位数字或\n字母组成的用户名"; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = "请输入6-18位数字或\n字母组成的密码"; //无需注意长度
+"The two passwords do not match" = "2次密码不一致"; //无需注意长度
+"Email wrong format" = "邮箱格式不对"; //无需注意长度
+"Password:" = "密码:";
+"RepeatPSD:" = "重复密码:";
+"Password has been sent to your mailbox" = "密码已发送至您的邮箱"; //无需注意长度
+"OK" = "确认";
+"Codes has been sent" = "验证码已发送"; // + //无需注意长度
+"Codes" = "验证码"; // +
+
+"Tourism" = "旅游圈";
+"Scan QR code" = "扫描二维码";
+"SearchID" = "ID查找";
+"Create group" = "创建旅游圈";
+"Search" = "搜索";
+"Join" = "加入";
+"Contacts" = "联系人";
+"Select Contacts" = "选择联系人";
+"Search for contacts" = "搜索联系人";
+"The group is not found , make sure \n the group account after retries" = "未找到该群，请确认群帐号后重试"; //无需注意长度
+"Edit group information" = "编辑群信息";
+"Failed to update group information" = "更新群信息失败"; //无需注意长度
+"Close" = "关闭";
+"Updates Success" = "更新信息成功"; //无需注意长度
+"Updates Failed" = "更新信息失败"; //无需注意长度
+"Creation Failed" = "创建失败"; //无需注意长度
+"Creating Success" = "创建成功"; //无需注意长度
+"Get group list failed" = "获取群列表失败"; //无需注意长度
+"Update group members list failed" = "更新群成员列表失败"; //无需注意长度
+"Group Name" = "旅游圈名";
+"Address" = "旅游圈地址";
+"Explanation" = "说明";
+
+"Join group" = "加入群";
+"Quit Group" = "退出群";
+"The dissolution of the group" = "解散群";
+"Group No." = "群号";
+"Join the group success" = "加入群成功"; //无需注意长度
+"Failure to join the group" = "加入群失败"; //无需注意长度
+"Successful exits group" = "已成功退出群"; //无需注意长度
+"Exit group fails" = "退出群失败"; //无需注意长度
+"Success disbanded group" = "已成功解散群"; //无需注意长度
+"The dissolution of the group fails" = "解散群失败"; //无需注意长度
+"Management group members" = "群成员管理";
+"Group members list" = "群成员列表";
+"Edit group information" = "群信息编辑";
+"Notice" = "通知";
+"Detail" = "详情";
+"Group Introduction" = "群简介";
+"people" = "人";
+"Submit" = "提交";
+"Administrator" = "管理员";
+"Alignment of QR code, \n it can automatically scan" = "对准二维码,即可自动扫描";
+"Scan success" = "扫描成功"; //无需注意长度
+"Scan fails" = "扫描失败"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = "开灯";
+"Turn off" = "关灯";
+"Group invitation has been sent" = "群邀请已发出"; //无需注意长度
+"Modify administrator rights fail" = "修改管理员权限失败"; //无需注意长度
+"Remove group members fail" = "移除群成员失败"; //无需注意长度
+"Settings for administrators" = "设置为管理员";
+"Undo Administrator" = "撤消管理员";
+"Settings for \n administrators" = "设置为\n管理员";
+"Undo \n Administrator" = "撤消\n管理员";
+"Kicked out" = "踢出群";
+"Adding members" = "添加群成员";
+"Management" = "管理";
+"Lord" = "群主";
+"Administrator" = "管理员";
+"Normal group" = "普通群";
+"Multi chat group" = "多聊群";
+"Failure to accept the group invitation" = "接受群邀请失败"; //无需注意长度
+"Joined" = "已加入";
+"Ignored" = "已忽略";
+"The user is not found , please try again confirm the account" = "未找到该用户，请确认帐号后重试"; //无需注意长度
+"Own" = "自己";
+"Friends" = "好友";
+"Add friend" = "添加好友";
+"Wrong username or password" = "用户名或密码错误"; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = "请求失败"; //无需注意长度
+"Unauthorized" = "未登录"; //无需注意长度
+"Forbidden" = "禁止访问"; //无需注意长度
+"Internal Server Error" = "服务器异常"; //无需注意长度
+"Gateway Time-out" = "网络异常"; //无需注意长度
+"User exists" = "此用户已注册"; //无需注意长度
+"Phone exists" = "手机号已注册"; //无需注意长度
+"Email exists" = "邮箱已注册"; //无需注意长度
+"User or password error" = "用户名或密码错误"; //无需注意长度
+"User device changed" = "用户更换设备"; //无需注意长度
+"Captcha has been invalid" = "验证码已失效"; //无需注意长度
+"Captcha is wrong" = "验证码错误"; //无需注意长度
+"User not register" = "此用户不存在"; //无需注意长度
+"Image is illegal" = "图片不合法"; //无需注意长度
+"Group not exists" = "此旅游圈不存在"; //无需注意长度
+"User already join Group" = "用户已加入此旅游圈"; //无需注意长度
+"User not member of Group" = "用户未加入此旅游圈"; //无需注意长度
+"Unknown error" = "未知错误"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "喝水提醒";
+"Starting time" = "开始时间";
+"End Time" = "结束时间";
+"Water" = "喝水量";
+"Time interval" = "时间间隔";
+"Remind" = "是否提示";
+"Setting success" = "设置成功"; //无需注意长度
+"Drink" = "喝水";
+
+// 20160418+
+"Turn the hand" = "抬腕亮屏";
+
+
+// 20160912+
+"Times / min" = "Times / min";
+
+// 20170105+
+"Temperature" = "温度";
+"Find the phone" = "找到手机了";
+"Find phone" = "寻找手机";
+
+// 20170215+
+"SMS Notification" = "短信提醒";
+"Notice reminder" = "通知提醒";
+
+

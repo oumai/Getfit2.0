@@ -1,0 +1,39 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B0FED7343430119AE121E6D7B3EB6B60F46E7ADC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "d0e26af9-d914-4b30-a1b0-211bcb4a3e84++7964" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B0FED7343430119AE121E6D7B3EB6B60F46E7ADC" : 0,
+    "4267DE9A433D7EBC685703AAFE154EE526AABD93" : 0,
+    "d0e26af9-d914-4b30-a1b0-211bcb4a3e84++7964" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EFDC6856-2F05-4795-A117-09B72BAD289C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B0FED7343430119AE121E6D7B3EB6B60F46E7ADC" : "GetFit2\/",
+    "4267DE9A433D7EBC685703AAFE154EE526AABD93" : "VeryFit%202%20%E6%89%8B%E7%8E%AF",
+    "d0e26af9-d914-4b30-a1b0-211bcb4a3e84++7964" : "GetFit2\/%E9%80%9A%E8%AE%AF%E7%9B%B8%E5%85%B3\/JSON\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AJBracelet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AJBracelet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "192.168.2.168:gitfile\/AJBracelet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4267DE9A433D7EBC685703AAFE154EE526AABD93"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.coding.net\/zkknetwork\/iOS_GetFit2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B0FED7343430119AE121E6D7B3EB6B60F46E7ADC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnserver\/svn\/G5",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "d0e26af9-d914-4b30-a1b0-211bcb4a3e84++7964"
+    }
+  ]
+}

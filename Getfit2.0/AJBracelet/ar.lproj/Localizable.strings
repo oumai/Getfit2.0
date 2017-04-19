@@ -1,0 +1,435 @@
+/*
+ Localizable.strings
+ LanguageLocalized
+ 
+ Created by 李琼 on 15/8/28.
+ Copyright (c) 2015年 李琼. All rights reserved.
+ */
+
+
+"App error, exit soon" = "البرنامج غير طبيعي، سوف يتم الخروج"; //无需注意长度
+"Mainpage" = "الصفحة الرئيسية";
+"Details" = "التفاصيل";
+"Device" = "الجهاز";
+"User" = "لي";
+"Cancel" = "الغاء";
+"Confirm" = "تحديد";
+"Setting" = "اعداد";
+"Today" = "اليوم";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "تم حفظ البيانات، ولكن لا يتم إرسالها إلى الجهاز، و يرجي التأكد من توصيل الجهاز بشكل صحيح ثم انقر فوق إعادة الإرسال"; //无需注意长度
+"Ble Data Send Time Out" = "مهلة ارسال البيانات";
+"Device Ble data written failed" = "كتابة البيانات علي الجهاز ليست طبيعية";
+"No Data" = "لا توجد البيانات ";
+"Network access error, please check the network connectivity, please try again later" = "خطأ الوصول إلى الشبكة، و يرجي التحقق من الاتصال بالشبكة و حاول مرة أخرى في وقت لاحق"; //无需注意长度
+"Y" = "سنة";
+"M" = "شهر";
+"D" = "يوم";
+"H" = "ساعة";
+"Hour" = "ساعة";
+
+"Min" = "دقيقة";
+"Minutes" = "دقيقة";
+"S" = "ثانية";
+"Step" = "خطوة";
+
+"KM" = "كيلومتر";
+"MI" = "ميل";
+
+"Cal" = "كيلو كالوري";
+"Calorie" = "السعرات الحرارية";
+"kCal" = "كالوري";
+
+"Goal Setting" = "اعداد الأهداف";
+"unsync" = "غير متزامنة";
+"Firmware version" = "إصدار البرنامج الثابت";
+"Firmware version:V" = "إصدار البرنامج الثابت:V";
+"Battery remaining" = "الطاقة المتبقية للبطارية";
+"Data synced at" = " مزامنة الوقت "; // +
+
+"Heart Rate" = "معدل ضربات القلب في الوقت الحقيقي";
+
+"Call Alert" = "تذكير مكالمات واردة";
+"Sedentary Alert" = "تذكير الجلوس لفترة طويلة";
+"Alarm Alert" = "تذكير المنبه المخصص";
+"ON" = "تم التشغيل";
+"OFF" = "لا يتم التشغيل";
+"Unbind Success" = "نجاح الالغاء";
+"Multi-Lists" = "تعدد المجموعات";
+"Unbind" = "الغاء الربط";
+"Pair Device" = "ربط الجهاز";
+"Device Name" = " اسم الجهاز"; // +
+
+"MaxHeart" ="معدل ضربات القلب القصوى";
+"MinHeart" ="معدل ضربات القلب الأدنى";
+"AverageHeart" ="متوسط معدل ضربات القلب";
+"Heart" = "معدل ضربات القلب";
+
+"Connect Device" = "توصيل الجهاز";
+"Add Device" = "إضافة جهاز";
+"Refresh" = "التحديث";
+"Confirm Bind Device" = "تحديد الربط";
+"Search Failed, click the icon to refresh searching the device" = "فشل البحث ، انقر فوق الرمز مرة أخرى لتحديث الجهاز"; //无需注意长度
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "يرجي التأكد من ان تم تشغيل بلوتوث الجهاز الخاص بكم"; //无需注意长度
+"Searching" = "يبحث عن الجهاز";
+"Can Update" = "قابلة للتحديث";
+"Latest Version" = "أحدث الاصدار";
+"User Profile" = "المعلومات الشخصية";
+"Boy" = "ذكر";
+"Girl" = "أنثى";
+"Last" = "السابقة";
+"Next" = "التالية";
+"Metric" = "النظام المتري";
+"British" = "النظام البريطاني";
+"Weight" = "الوزن";
+"Sports Target" = "هدف الرياضة";
+"Daily Target" = "الهدف اليومي";
+
+"Sleep Target" = "هدف النوم";
+"Birth" = "مولود";
+"Done" = "اكمل";
+"Personal Profile" = "الملف الشخصي";
+"Username" = "اسم المستخدم";
+"Gender" = "الجنس:";
+"Birthday" = "تاريخ الميلاد:";
+"Height" = "الارتفاع:";
+"Weight" = "الوزن:";
+"Daily Target" = "الهدف اليومي";
+"Target Setting" = "اعداد الأهداف";
+"My info" = "الملف الشخصي";
+"Please type in your name" = " الرجاء إدخال  الاسم ";// +
+"System Setting" = "إعداد النظام";
+"Device Update" = "تحديث الجهاز";
+"Current Version" = "الاصدار الحالي";
+"Update details" = "التحديثات";
+"connecting device" = "هو   جهاز اتصال";
+"Please choose a device..." = "الرجاء اختيار   المعدات   ...";
+"Auto Update" = "التحديث التلقائي";
+"Update Now" = "التحديث الآن";
+"Downloading and Updating" = "جاري تحميل ملفات الترقية";
+"Updating" = "جاري الترقية";
+"Prepare for update" = "تستعد للترقية";
+"Connecting" = "جاري التوصيل";
+"Disconnecting" = "جاري القطع";
+"Update Complete" = "اكتملت الترقية";
+"Low power, unable to update" = "الطاقة منخفضة جدا، و لا يمكن الترقية";
+"Not support for update " = "لا يدعم الترقية";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "فشلت الترقية، يرجى المحاولة مرة أخرى بعد خروج الجهاز من وضع الترقية";
+" Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "يرجي التأكد من شحن الجهاز بالكامل \n تستمر عملية الشحن كلها حوالي خمس دقائق \n أثناء الترقية لا يقطع الاتصال";
+
+"Weather On/OFF" = "مفتاح الطقس";
+"Unit Set" = "إعداد الوحدة";
+"Sports Medal" = "إشعار نتيجة الممارسة";
+"Daily Time Notice" = "إشعار الوقت اليومي";
+"About Us" = "حول بنا";
+"APP Version" = "اصدار APP ";
+"Normal Problem" = "الأسئلة المطروحة مكررا";
+"Distance" = "المسافة";
+"Total distance" = "بعد التراكمي";
+"Temp" = "درجة الحرارة";
+"This smart phone not support Bluetooth" = "الهاتف المحمول لا يدعم البلوتوث";
+"Call Alert" = "تذكير المكالمات الواردة";
+"SMS Alert" = "تذكير الرسائل القصيرة";
+"Wechat Alert" = "تذكير ويشات";
+"Email Alert" = "تذكير رسائل البريد الإلكتروني";
+"QQ Alert" = "تذكير QQ";
+"Anti-lost Alert" = "تذكير مكافحة الفقدان";
+"Music Control" = "التحكم في الموسيقى";
+"One Key Call" = "الاستدعاء بالمفتاح الواحد";
+"Photograph" = "التقاط الصورة";
+"All Day Sync" = "التحديث التلقائي للطقس";
+"Device Update" = "تحديث الجهاز";
+"Find Wristband" = "أبحث عن سوار القميص";
+"Find Phone" = "أبحث عن الهاتف المحمول";
+"Alarm List Setting" = "تذكير المنبه المخصص";
+"Add Alarm List" = "إضافة تذكير المنبه";
+"3 alarm lists could be added" = "يمكن   إضافة   أكثر من   3   المادة   المنبه";
+"Alert" = "تذكير";
+"Repeat" = "كرر";
+"Time" = "الوقت";
+"Total time" = "الوقت";
+"Name" = "الاسم";
+"Please remind me during this time" = "ذكرني في هذا الوقت";
+"Mon" = "الإثنين";
+"Tue" = "الثلاثاء";
+"Wed" = "الأربعاء";
+"Thu" = "الخميس";
+"Fri" = "الجمعة";
+"Sat" = "السبت";
+"Sun" = "الأحد";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  ين       الثلاثاء       الاربعاء      الخميس       الجمعة    السبت";
+
+"Remind name is as more as 6 words" = "اسم التذكير يصل إلى ستة أحرف";
+"am" = " صباح";
+"pm" = "بعد الظهر";
+"Sedentary Alert" = "تذكير الجلوس لفترة طويلة";
+"Start" = "بداية";
+"End" = "نهاية";
+"Pull-down Refresh" = "اسحب الي الأسفل للتحديث";
+"Release Refresh" = "افرج للتحديث";
+"Synced" = "تم المزامنة";
+"go to The Day" = "عرض هذا اليوم";
+"back to Today" = "العودة الي اليوم";
+
+"Deep Sleep/min" = "النوم العميق / دقيقة";
+"Light Sleep/min" = "النوم الخفيف";
+"Awake Hours/min" = "الاستيقاظ من النوم";
+"Deep Sleep" = "النوم العميق";
+"Light Sleep" = "النوم الخفيف";
+"Awake Sleep" = "الاستيقاظ من النوم";
+
+"Week" = "أسبوع";
+"Month" = "شهر";
+"Year" = "عام";
+"Activities" = "نشاط";
+"Sleep" = "النوم";
+"Total" = "إجمالي النوم";
+"Deep" = "النوم العميق";
+"Light" = "النوم الخفيف";
+
+"Profile Photo Setting" = "اعداد صورة الملف الشخصي الأساسية";
+"Remove photo" = "إزالة الصور";
+"Choose Current Photo" = "اختيار الصور القائمة";
+"Take Photo" = "التقاط الصورة";
+
+"Unbind the device? \nData waitting for sync will be lost." = "هل تريد إلغاء ربط الجهاز؟ \n قد أية بيانات غير متزامنة."; //无需注意长度
+"Delete Device" = "إزالة الجهاز";
+"Delete" = "إزالة";
+
+// 拍照
+"Photograph setting" = "إعدادات التقاط الصورة";
+"device upgrade" = "ترقيات الجهاز";
+"Continuous Shoot" = "التقاط الصورة المستمر";
+"Interval" = "الفاصلة";
+"s" = "ثانية";
+"pc" = "ورقة";
+"Choose a pic from album" = "اختيار الصور الموجودة";
+"After a call come in" = "مكالمة واردة";
+"s Band vibrates to remind" = "سوار القميص يبدأ التذكير بعد ثانية";
+"Everyday" = "يوميا";
+"Go to sleep" = "النوم";
+"Get Up" = "الاستيقاظ";
+"Exercise" = "الممارسة";
+"Dating" = "اللقاء";
+"Party" = "الاجتماع";
+"Meeting" = "المؤتمر";
+"Take Medication" = "أكل الدواء";
+"Custom" = "المتخصص";
+"The current is latest version." = "الإصدار الحالي هو أحدث الاصدار";
+"Anti-lost Setting Done" = "تم اعداد مكافحة الفقدان بنجاح";
+"Synchronizing" = "تتم مزامنة البيانات تلقائيا";
+"Bind OK" = "تم الربط";
+"Bind Success" = "تم الربط بنجاح";
+"%ldMin" = "ld% دقيقة";
+"%dMin" = "d% دقيقة";
+"Cancel" = "الغاء";
+"Please connect to the device" = "يرجى توصيل الجهاز";
+"Device not Connected" = "لم يتم توصيل الجهاز.";
+"Share" = "المشاركة الي";
+"Friends" = "دائرة الأصدقاء";
+"Wechat" = "ويشات";
+"Network Error" = "الشبكة ليست جيدة";
+"Signal Strength" = "قوة الإشارة";
+"Please confirm:" = "عند ربط الجهاز يرجي التأكد من:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1. الجهاز المراد للربط يكون في حالة التشغيل الطبيعي \n 2. تم تشغيل  بلوتوث الهاتف المحمول \n 3. المساف بين الجهاز و الهاتف المحمول تكون أقل من 10 أمتار";
+"Searching device..." = "ابحث عن الجهاز ...";
+"Skip" = "القفز";
+
+"Week Distance" = "اجمالي الأميال الأسبوعي";
+"Week Steps" = "اجمالي عدد الخطوات الأسبوعي";
+"Week Calories" = "اجمالي الاستهلاك الأسبوعي";
+"Average Distance" = "متوسط الأميال اليومي";
+"Average Steps" = "متوسط عدد الخطوات اليومي";
+"Average Calories" = "متوسط الاستهلاك اليومي";
+"Month Distance" = "اجمالي الأميال الشهري";
+"Month Steps" = "اجمالي عدد الخطوات الشهري";
+"Month Calories" = "اجمالي الاستهلاك الشهري";
+"Year Distance" = "اجمالي الأميال السنوي";
+"Year Steps" = "اجمالي عدد الخطوات السنوي";
+"Year Calories" = "اجمالي الأميال السنوي";
+"Average Sleep" = "يوميا   من النوم";
+"Average Deep" = "متوسط النوم العميق اليومي";
+"Average Light" = "متوسط النوم الخفيف اليومي";
+"Start Time" = "متوسط وقت النوم";
+
+"Sleep Start Time" = "وقت النوم";
+"End Time" = "متوسط وقت الاستيقاظ";
+"Sleep End Time" = "وقت الاستيقاظ";
+"Awake Time" = "متوسط الاستيقاظ اليومي";
+"MultiLists" = "المتعدد";
+"Single group" = "المجموعة الواحدة";
+"Multi-Lists" = "المجموعات المتعددة";
+
+"Restart Device" = "إعادة تشغيل الجهاز";
+"Back" = "العودة";
+"Scanning" = "جاري المسح";
+
+"Already Latest Version" = "هذا هو أحدث الاصدار";
+"Get Logs" = "الحصول على سجلات";
+"Setting Done" = "نجاح الاعداد";
+"Functions" =  "مقدمة صفحة الوظائف";
+"User Manual" = "دليل الاستخدام";
+"Version ID" =  "رقم الإصدار";
+"APP Version" = "إصدار البرنامج";
+"Device under low power" = "لم يكن لدي جهاز الطاقة الكافية";
+"Remind after" = "وقت الخمول يصل الي ";
+"Remind Time" = "وقت الجلوس";
+"mins without movement" = "يبدأ التذكير بعد دقيقة";
+
+"Total cost" = "الاستهلاك   المتراكم";
+
+"Device is under low battery" = "لم يكن لدي جهاز الطاقة الكافية.";
+"Update Failed" =  "فشلت الترقية.";
+"Automatically Syncing" = "تتم مزامنة البيانات تلقائيا";
+"Manual Syncing" = "تتم مزامنة البيانات يدويا";
+"Please Wait"  =  "انتظر لحظة";
+"Device not paired" =  "لم يتم توصيل الجهاز";
+"Reboot Done" =   "تم بدء التشغيل بنجاح";
+"Update Done" =   "تم الترقية بنجاح";
+"Reboot the device? Data will be synced before reboot" =  "هل تريد إعادة تشغيل الجهاز و تتم مزامنة البيانات قبل إعادة التشغيل";
+"Confirm Reboot" =  "تأكيد إعادة التشغيل";
+"Sync Failed" = "فشلت المزامنة";
+"Current version is the latest version" =  "هذا هو أحدث الاصدار";
+"Current version is the latest version" =  "الإصدار الحالي هو أحدث الاصدار";
+"Please pair the device" = "يرجى توصيل الجهاز";
+"Update Done" =  "اكمل";
+"Congratulations! Update successfully!" =  "تهانينا على الترقية الناجحة الخاصة بكم"; //无需注意长度
+
+"Sync Done" =  "اكتملت المزامنة";
+"Feet" =  "قدم";
+"Pound" =  "جنيه";
+
+// 聊天界面模块
+"Send" = "الارسال";
+"Server connection failed" = "فشل الاتصال بالخادم"; //无需注意长度
+"Log in" = "تسجيل الدخول";
+"Username and password \n can not be empty" = "اسم المستخدم وكلمة المرور لا يمكن أن يكون فارغا"; //无需注意长度
+"Forgot password" = "نسيت كلمة المرور";
+"Registered" = "التسجيل";
+"Username:" = "اسم المستخدم:";
+"Email:" = "البريد الإلكتروني:";
+"Please enter 4-18 digits \n or letters username" = "يرجي إدخال اسم المستخد \n م المكون من 4-18 أرقام أو حروف "; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = "يرجي إدخال كلمة المرور \n  المكونة من 6-18 أرقام أو حروف "; //无需注意长度
+"The two passwords do not match" = "كلمة المرور مرتين تتعارض بعضها بعضا"; //无需注意长度
+"Email wrong format" = "تنسيق صندوق البريد الإلكتروني خاطئ"; //无需注意长度
+"Password:" = "كلمة المرور:";
+"RepeatPSD:" = "كلمة المرور:";
+"Password has been sent to your mailbox" = "تم ارسال كلمة المرور الى صندوق البريد الالكتروني الخاصة بكم"; //无需注意长度
+"OK" = "تأكيد";
+"Codes has been sent" = " تم إرسال  كود التحقق"; // + //无需注意长度
+"Codes" = " رمز التحقق "; // +
+"Tourism" = "دائرة السياحة";
+"Scan QR code" = "مسح رمز ثنائي الأبعاد";
+"SearchID" = "البحث عن ID";
+"Create group" = "إنشاء دائرة السياحة";
+"Search" = "ابحث";
+"Join" = "انضم";
+"Contacts" = "جهة الاتصال";
+"Select Contacts" = "اختر جهة الاتصال";
+"Search for contacts" = "ابحث عن جهة الاتصال";
+"The group is not found , make sure \n the group account after retries" = "لم يتم العثور على المجموعة، ي \n نبغي إعادة المحاولة بعد التأكد من حساب المجموعة "; //无需注意长度
+"Edit group information" = "تحرير معلومات المجموعة";
+"Failed to update group information" = "فشل تحديث معلومات المجموعة"; //无需注意长度
+"Close" = "اغلق";
+"Updates Success" = "تم تحديث المعلومات بنجاح"; //无需注意长度
+"Updates Failed" = "فشل   تحديث   مجموعة من المعلومات"; //无需注意长度
+"Creation Failed" = "فشل الإنشاء"; //无需注意长度
+"Creating Success" = "نجح الانشاء"; //无需注意长度
+"Get group list failed" = "فشل الحصول على قائمة المجموعة"; //无需注意长度
+"Update group members list failed" = "فشل تحديث قائمة أعضاء المجموعة"; //无需注意长度
+"Group Name" = "اسم دائرة السياحة";
+"Address" = "عنوان دائرة السياحة";
+"Explanation" = "التعليمات";
+
+"Join group" = "الانضمام الي المجموعة";
+"Quit Group" = "الخروج من المجموعة";
+"The dissolution of the group" = "حل المجموعة";
+"Group No." = "رقم المجموعة";
+"Join the group success" = "نجح الانضمام الي المجموعة"; //无需注意长度
+"Failure to join the group" = "فشل الانضمام إلى المجموعة"; //无需注意长度
+"Successful exits group" = "نجح الخروج من المجموعة"; //无需注意长度
+"Exit group fails" = "فشل الخروج من المجموعة"; //无需注意长度
+"Success disbanded group" = "نجح حل المجموعة"; //无需注意长度
+"The dissolution of the group fails" = "فشل حل المجموعة"; //无需注意长度
+"Management group members" = "ادارة أعضاء المجموعة";
+"Group members list" = "قائمة أعضاء المجموعة";
+"Edit group information" = "تحرير معلومات المجموعة";
+"Notice" = "الاشعار";
+"Detail" = "التفاصيل";
+"Group Introduction" = "مقدمة المجموعة";
+"people" = "الناس";
+"Submit" = "التثديم";
+"Administrator" = "المدير";
+"Alignment of QR code, \n it can automatically scan" = "قم بمحاذاة رمز ثنائي  \n الأبعاد للمسح تلقائيا";
+"Scan success" = "نجح المسح "; //无需注意长度
+"Scan fails" = "فشل المسح"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = " أضواء";
+"Turn off" = " إطفاء الأنوار";
+"Group invitation has been sent" = " أصدرت  مجموعة  دعوة"; //无需注意长度
+"Modify administrator rights fail" = " فشل  تعديل  صلاحيات المدير "; //无需注意长度
+"Remove group members fail" = " إزالة  أعضاء المجموعة  الفاشلة"; //无需注意长度
+"Settings for administrators" = " تعيين  مدير";
+"Undo Administrator" = " إلغاء  مدير";
+"Settings for \n administrators" = " تعيين \n مدير";
+"Undo \n Administrator" = " إلغاء \n مدير";
+"Kicked out" = " لعب  مجموعة ";
+"Adding members" = " إضافة  مجموعة الأعضاء";
+"Management" = " إدارة ";
+"Lord" = " الفريق المضيف";
+"Administrator" = " مدير";
+"Normal group" = " المجموعة العادية";
+"Multi chat group" = " دردشة  مجموعة  متعددة";
+"Failure to accept the group invitation" = " تقبل  دعوة  مجموعة  من الفشل"; //无需注意长度
+"Joined" = " تم إضافة";
+"Ignored" = " وقد  تجاهل";
+"The user is not found , please try again confirm the account" = " لم يتم العثور على  هذا المستخدم  ،  يرجى التأكد من  رقم الحساب  وحاول مرةأخرى "; //无需注意长度
+"Own" = " نفسي";
+"Friends" = " صديق ";
+"Add friend" = " إضافة صديق";
+"Wrong username or password" = " اسم المستخدم أو  كلمة المرور خطأ "; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = " فشل الطلب"; //无需注意长度
+"Unauthorized" = " لم يتم تسجيل الدخول "; //无需注意长度
+"Forbidden" = " الوصول ممنوع"; //无需注意长度
+"Internal Server Error" = " الخادم  غير طبيعي "; //无需注意长度
+"Gateway Time-out" = " شبكة الشذوذ "; //无需注意长度
+"User exists" = " هذا المستخدم  مسجل "; //无需注意长度
+"Phone exists" = " رقم الجوال  المسجل "; //无需注意长度
+"Email exists" = " البريد  المسجل "; //无需注意长度
+"User or password error" = " اسم المستخدم أو  كلمة المرور خطأ "; //无需注意长度
+"User device changed" = " المستخدم استبدال  المعدات "; //无需注意长度
+"Captcha has been invalid" = " رمز التحقق  قد  فشل "; //无需注意长度
+"Captcha is wrong" = " كود التحقق  خطأ "; //无需注意长度
+"User not register" = " هذا المستخدم  غير موجود "; //无需注意长度
+"Image is illegal" = " صور  غير شرعية "; //无需注意长度
+"Group not exists" = " هذه  دائرة السياحة  غير موجودة "; //无需注意长度
+"User already join Group" = " تم  إضافة هذا  المستخدم  دائرة السياحة "; //无需注意长度
+"User not member of Group" = " هذا  المستخدم  لم تنضم إلى  دائرة السياحة "; //无需注意长度
+"Unknown error" = " خطأ غير معروف"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "تذكير شرب الماء";
+"Starting time" = "وقت البداية";
+"End Time" ="وقت الانتهاء";
+"Water" = "كمية المياه";
+"Time interval" = "الفاصلة";
+"Remind" = "الفاصلة";
+"Setting success" = "هل تريد التذكير"; //无需注意长度
+
+
+"Turn the hand" = "شاشة مشرق";
+
+
+// 20160912+
+"Times / min" = "Times / min";
+
+
+
+
+
+
+

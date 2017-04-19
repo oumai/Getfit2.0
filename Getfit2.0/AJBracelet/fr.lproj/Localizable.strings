@@ -1,0 +1,443 @@
+/*
+ Localizable.strings
+ LanguageLocalized
+ 
+ Created by 李琼 on 15/8/28.
+ Copyright (c) 2015年 李琼. All rights reserved.
+ */
+
+"App error, exit soon" = "Erreur, fermeture de l’app";
+"Mainpage" = "Accueil";
+"Details" = "Détails";
+"Device" = "Montre";
+"User" = "Moi";
+"user" = "Nom";
+"Cancel" = "Annuler";
+"Confirm" = "Confirmer";
+"Setting" = "Réglages";
+"Today" = "Aujourd’hui";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "Données sauvegardées, mais pas encore dans le téléphone. Connectez le téléphone et cliquez sur renvoyer";
+"Ble Data Send Time Out" = "Temps de chargement depassé";
+"Device Ble data written failed" = "Échec chargement données";
+"No Data" = "pas de données";
+"Network access error, please check the network connectivity, please try again later" = "Erreur réseau，essayez de reconnecter à nouveau";
+"Y" = "A";
+"M" = "M";
+"D" = "J";
+"H" = "H";
+"Hour" = "Heure";
+
+"Min" = "Min";
+"Minutes" = "Minutes";
+"S" = "S";
+"Step" = "Pas";
+
+"KM" = "KM";
+"MI" = "MI";
+
+"Cal" = "Cal";
+"Calorie" = "Calorie";
+"kCal" = "kCal";
+
+"Goal Setting" = "Objectif";
+"unsync" = "désync";
+"Firmware version" = " Firmware version ";
+"Firmware version:V" = " Firmware version:V";
+"Battery remaining" = "Batterie restante";
+"Data synced at" = "Données sync. à"; // +
+
+"Heart Rate" = "Pouls";
+
+"Call Alert" = "Notif. appel";
+"Sedentary Alert" = "Alerte Sédent.";
+"Alarm Alert" = "Alerte alarme";
+"ON" = "ON";
+"OFF" = "OFF";
+"Unbind Success" = "Déconnexion OK";
+"Multi-Lists" = " Multi-Listes";
+"Unbind" = " Déconnexion";
+"Pair Device" = "Connexion";
+"Device Name" = "Nom appareil"; // +
+
+"MaxHeart" ="Pouls max";
+"MinHeart" ="Pouls min";
+"AverageHeart" ="Pouls moyen";
+"Heart" = "Pouls";
+
+"Connect Device" = "Connecter appareil";
+"Add Device" = "Ajouter appareil";
+"Refresh" = "Rafraichir";
+"Confirm Bind Device" = "Confirm. connexion";
+"Search Failed, click the icon to refresh searching the device" = "Echec recherché, appuyez sur Refraichir pour retenter";
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "Vérifier que le Bluetooth est activé et proche du téléphone";
+"Searching" = "Recherche";
+"Can Update" = "Mise à jour";
+"Latest Version" = "Dernière version";
+"User Profile" = "Profil";
+"Boy" = "M";
+"Girl" = "F";
+"Last" = "Dernier";
+"Next" = "Suiv.";
+"Metric" = "Mètres";
+"British" = "Pieds";
+"Weight" = "Poids";
+"Sports Target" = "Obj. sport";
+"Daily Target" = "Obj. jour";
+
+"Sleep Target" = "Obj. sommeil";
+"Birth" = "Naiss.";
+"Done" = "Fini";
+"Personal Profile" = "Profil perso.";
+"Username" = "Nom";
+"Gender" = "Sexe";
+"Birthday" = "Anniv.";
+"Height" = "Taille";
+"Weight" = "Poids";
+"Daily Target" = "Obj. quot.";
+"Target Setting" = "Definir Obj.";
+"My info" = "Mon info";
+"Please type in your name" = "Écrivez votre nom";
+"update" = "Mise à jour";
+"System Setting" = "Options syst.";
+"Device Update" = "MàJ appareil";
+"Current Version" = "Version act.";
+"Update details" = "modif. détails";
+"connecting device" = "Connexion tél.";
+"Please choose a device..." = "Choisir un appareil...";
+"Auto Update" = "Mise à jour auto";
+"Update Now" = "Mettre à jour";
+"Downloading and Updating" = "Téléchargement + MàJ";
+"Updating" = "Mise à j.";
+"Prepare for update" = "Préparation MàJ";
+"Connecting" = "Connexion";
+"Disconnecting" = "Déconnexion";
+"Update Complete" = "MàJ terminée";
+"Low power, unable to update" = "Batterie faible, MàJ impossible";
+"Not support for update " = "MàJ impossible";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "Échec MàJ, attendez et réessayez plus tard";
+"Please make sure your device is enough power, the update process will take around 5 minutes please do not disconnect the device during the updating" = "Assurez-vous que la batterie soit suffisante, la MàJ va prendre 5 min, ne pas deconnecter l’appareil pendant la MàJ";
+
+"Weather On/OFF" = "Météo ON/OFF";
+"Unit Set" = "Unité";
+"Sports Medal" = "Médaille sport";
+"Daily Time Notice" = "Notification quotidienne";
+"About Us" = "À propos";
+"APP Version" = "Version APP";
+"Normal Problem" = "Problème normal";
+"Distance" = "Distance";
+"Total distance" = "Dist. totale";
+"Temp" = "Temp";
+"This smart phone not support Bluetooth" = "Ce téléphone ne supporte pas le Bluetooth";
+"Call Alert" = "Alerte appel";
+"SMS Alert" = "Alerte SMS";
+"Wechat Alert" = "Alerte WeChat";
+"Email Alert" = "Alerte email";
+"QQ Alert" = "Alerte QQ";
+"Anti-lost Alert" = "Alerte perte";
+"Music Control" = "Contr. musique";
+"One Key Call" = "Appel 1 touche";
+"Photograph" = "Photo";
+"All Day Sync" = "Sync. quotidienne";
+"Device Update" = "MàJ appareil";
+"Find Wristband" = "Trouver montre";
+"Find Phone" = "Trouver tél";
+"Alarm List Setting" = "Réglage alarme";
+"Add Alarm List" = "Ajouter alarme";
+"3 alarm lists could be added" = "Ajoutez 3 alarmes";
+"Alert" = "Alerte";
+"Repeat" = "Répéter";
+"Time" = "Temps";
+"Total time" = "Temps total";
+"Name" = "Nom";
+"Please remind me during this time" = "Répéter pendant ce temps";
+"Mon" = "Lun";
+"Tue" = "Mar";
+"Wed" = "Mer";
+"Thu" = "Jeu";
+"Fri" = "Ven";
+"Sat" = "Sam";
+"Sun" = "Dim";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  Dim             Lun               Mar              Mer              Jeu               Ven             Sam";
+
+"Remind name is as more as 6 words" = "Longueur max du nom = 6 lettres";
+"am" = "am";
+"pm" = "pm";
+"Sedentary Alert" = "Alerte sédentaire";
+"Start" = "Début";
+"End" = "Fin";
+"Pull-down Refresh" = "bas = rafraichir";
+"Release Refresh" = "haut = rafraichir ";
+"Synced" = "Synchro";
+"go to The Day" = "Chosir jour";
+"back to Today" = "Retour auj.";
+
+"Deep Sleep/min" = "Som.prof/min";
+"Light Sleep/min" = "Som.léger/min";
+"Awake Hours/min" = "Temps éveillé";
+"Deep Sleep" = "Som.profond";
+"Light Sleep" = "Som.léger";
+"Awake Sleep" = "Éveil";
+
+"Week" = "Sem";
+"Month" = "Mois";
+"Year" = "An";
+"Activities" = "Activités";
+"Sleep" = "Sommeil";
+"Total" = "Total";
+"Deep" = "Prof.";
+"Light" = "Léger";
+
+"Profile Photo Setting" = "Choisir photo";
+"Remove photo" = "enlever photo";
+"Choose Current Photo" = "Choisir photo";
+"Take Photo" = "Prendre photo";
+
+"Unbind the device? \nData waitting for sync will be lost." = "Déconnecter montre? \ Les données seront perdues。"; //无需注意长度
+"Delete Device" = "Suppr. montre";
+"Delete" = "Suppr.";
+
+// 拍照
+"Photograph setting" = "Règl. photo";
+"device upgrade" = "MàJ";
+"Continuous Shoot" = "Photo rafale";
+"Interval" = "Intervale";
+"s" = "s";
+"pc" = "pc";
+"Choose a pic from album" = "Choisir photo";
+"After a call come in" = "Après appel";
+"s Band vibrates to remind" = "s montre vibre";
+"Everyday" = "quotidien";
+"Go to sleep" = "Dormir";
+"Get Up" = "Se lever";
+"Exercise" = "Sport";
+"Dating" = "RDV";
+"Party" = "Fête";
+"Meeting" = "Réunion";
+"Take Medication" = "Prendre medic.";
+"Custom" = "Personal.";
+"The current is latest version." = "Dernière version OK";
+"Anti-lost Setting Done" = "Règl. anti-perte OK";
+"Synchronizing" = "Synchronisation";
+"Bind OK" = "Connex. OK";
+"Bind Success" = "Connex. OK ";
+"%ldMin" = "%ldMin";
+"%dMin" = "%dMin";
+"Cancel" = "Annul.";
+"Please connect to the device" = "Connectez à l’appareil";
+"Device not Connected" = "Appareil non-connecté";
+"Share" = "Partager";
+"Friends" = "Amis";
+"Wechat" = "WeChat";
+"Network Error" = "Erreur réseau";
+"Signal Strength" = "Intensité réseau";
+"Please confirm:" = "Confirmez :";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1.Réveillez montre (écran allumé) quand recherché connexion.\n2.Bluetooth sur tél. est activé.\n3.Montre est à moins de 10 mètres du téléphone";
+"Searching device..." = "Recherche montre...";
+"Skip" = "Passer";
+
+"Week Distance" = "Distance/sem.";
+"Week Steps" = "Pas/sem.";
+"Week Calories" = "Calories/sem.";
+"Average Distance" = "Distance moyenne";
+"Average Steps" = "Pas moyens";
+"Average Calories" = "Calories moy.";
+"Month Distance" = "Distance/mois";
+"Month Steps" = "Pas/mois";
+"Month Calories" = "Calories/mois";
+"Year Distance" = "Distance/an";
+"Year Steps" = "Pas/an";
+"Year Calories" = "Calories/an";
+"Average Sleep" = "Moyenne sommeil";
+"Average Deep" = "Moy. profonde";
+"Average Light" = "Moy. légère";
+"Start Time" = "Heure début";
+
+"Sleep Start Time" = "Heure début som.";
+"End Time" = "Heure fin";
+"Sleep End Time" = "Heure fin som.";
+"Awake Time" = "Temps éveillé";
+"MultiLists" = " MultiListes";
+"Single group" = "Groupe uniq.";
+"Multi-Lists" = " Multi-Listes";
+
+"Restart Device" = "Redémarrer";
+"Back" = "Préc.";
+"Scanning" = "Recherche";
+
+"Already Latest Version" = "Déjà MàJ";
+"Get Logs" = "Journal";
+"Setting Done" = "Réglage OK";
+"Functions" =  "Fonctions";
+"User Manual" = "Manuel";
+"Version ID" =  "N. version";
+"APP Version" = "Version app";
+"Device under low power" = "Batterie faible";
+"Remind after" = "Rappel après";
+"Remind Time" = "Heure rappel";
+"mins without movement" = "Min. sans mouvement";
+
+"Total cost" = "Coût total";
+
+"Device is under low battery" = "Batterie faible.";
+"Update Failed" =  "Échec MàJ.";
+"Automatically Syncing" = "Synch. automatique";
+"Manual Syncing" = "Synch. manuelle";
+"Please Wait"  =  "Attendez";
+"Device not paired" =  "Pas connecté";
+"Reboot Done" =   "Redémarrage OK";
+"Update Done" =   "MàJ OK";
+"Reboot the device? Data will be synced before reboot" =  "Redémarrer ? Données seront perdues";
+"Confirm Reboot" =  "Conf. redémarrage";
+"Sync Failed" = "Echec synch";
+"Current version is the latest version" =  "Déjà dernière version";
+"Current version is the latest version" =  "Déjà dernière version";
+"Please pair the device" = "Connectez montre";
+"Update Done" =  "MàJ OK";
+"Congratulations! Update successfully!" =  "MàJ OK!"; //无需注意长度
+
+"Sync Done" =  "Synch. OK";
+"Feet" =  "Pieds";
+"Pound" =  "Livres";
+
+// 聊天界面模块
+"Send" = "Envoi";
+"Server connection failed" = "Connexion perdue"; //无需注意长度
+"Log in" = "Log in";
+"Username and password \n can not be empty" = "Nom et mot de passe\ obligatoires"; //无需注意长度
+"Forgot password" = "oubli mdp";
+"Registered" = "Enregistré";
+"Username:" = "Nom:";
+"Email:" = "Email:";
+"Please enter 4-18 digits \n or letters username" = "Écrire nom d’util. de 4-18 lettres/chiffres"; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = " Écrire nom d’util. de 4-18 lettres/chiffres"; //无需注意长度
+"The two passwords do not match" = "2 mots de passe sont diff."; //无需注意长度
+"Email wrong format" = "Email incorrect"; //无需注意长度
+"Password:" = "Mot de passe:";
+"RepeatPSD:" = "Répéter MDP:";
+"Password has been sent to your mailbox" = "Mot de passé envoyé par email"; //无需注意长度
+"OK" = "OK";
+"Codes has been sent" = "Codes envoyés"; // + //无需注意长度
+"Codes" = "Codes"; // +
+
+"Tourism" = "Tourisme";
+"Scan QR code" = "Scan QR code";
+"SearchID" = "SearchID";
+"Create group" = "Créer groupe";
+"Search" = "Chercher";
+"Join" = "rejoindre";
+"Contacts" = "Contacts";
+"Select Contacts" = "Selec. contacts";
+"Search for contacts" = "Rech. contacts";
+"The group is not found , make sure \n the group account after retries" = "Groupe introuvable, vérifiez et réessayez"; //无需注意长度
+"Edit group information" = "Modif. info groupe";
+"Failed to update group information" = "Échec MàJ info groupe"; //无需注意长度
+"Close" = "Fermer";
+"Updates Success" = "MàJ OK"; //无需注意长度
+"Updates Failed" = "Échec MàJ"; //无需注意长度
+"Creation Failed" = "Échec"; //无需注意长度
+"Creating Success" = "OK"; //无需注意长度
+"Get group list failed" = "Échec"; //无需注意长度
+"Update group members list failed" = "Échec MàJ liste membres"; //无需注意长度
+"Group Name" = "Nom groupe";
+"Address" = "Adresse";
+"Explanation" = "Explication";
+
+"Join group" = "Rejoindre";
+"Quit Group" = "Quitter";
+"The dissolution of the group" = "Dissoudre groupe";
+"Group No." = "No. groupe";
+"Join the group success" = "Groupe rejoint"; //无需注意长度
+"Failure to join the group" = "Échec"; //无需注意长度
+"Successful exits group" = "Groupe quitté"; //无需注意长度
+"Exit group fails" = "Échec"; //无需注意长度
+"Success disbanded group" = "Groupe dissous"; //无需注意长度
+"The dissolution of the group fails" = "Échec dissolution"; //无需注意长度
+"Management group members" = "Gestion groupe";
+"Group members list" = "Liste membres";
+"Edit group information" = "Modif. groupe info";
+"Notice" = "Notif.";
+"Detail" = "Détail";
+"Group Introduction" = "Groupe intro";
+"people" = "Gens";
+"Submit" = "Conf.";
+"Administrator" = "Admin";
+"Alignment of QR code, \n it can automatically scan" = "Aligner code QR, scan automatique";
+"Scan success" = "Scan OK"; //无需注意长度
+"Scan fails" = "Échec scan"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = "Allumer";
+"Turn off" = "Éteindre";
+"Group invitation has been sent" = "Invitation envoyée"; //无需注意长度
+"Modify administrator rights fail" = "Échec modif. droits admin"; //无需注意长度
+"Remove group members fail" = "Échec"; //无需注意长度
+"Settings for administrators" = "Règlages admin";
+"Undo Administrator" = "Annuler admin";
+"Settings for \n administrators" = "Règlages admin";
+"Undo \n Administrator" = "Annuler \n admin";
+"Kicked out" = "Retiré";
+"Adding members" = "Ajouter membres";
+"Management" = "Gestion";
+"Lord" = "Admin";
+"Administrator" = "Admin";
+"Normal group" = "Groupe normal";
+"Multi chat group" = "Chat inter-groupe";
+"Failure to accept the group invitation" = "Échec acceptation invit."; //无需注意长度
+"Joined" = "Rejoint";
+"Ignored" = "Ignoré";
+"The user is not found , please try again confirm the account" = "Utilisateur intouvable, essayez à nouveau"; //无需注意长度
+"Own" = "Moi";
+"Friends" = "Amis";
+"Add friend" = "Ajouter ami";
+"Wrong username or password" = "Mauvais nom ou mdp"; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = "Demande incor."; //无需注意长度
+"Unauthorized" = "Interdit"; //无需注意长度
+"Forbidden" = "Interdit"; //无需注意长度
+"Internal Server Error" = "Erreur serveur"; //无需注意长度
+"Gateway Time-out" = "Erreur"; //无需注意长度
+"User exists" = "Utilisateur existe"; //无需注意长度
+"Phone exists" = "Téléphone existe"; //无需注意长度
+"Email exists" = "email existe"; //无需注意长度
+"User or password error" = "Erreur nom/mdp"; //无需注意长度
+"User device changed" = "Appareil modifié"; //无需注意长度
+"Captcha has been invalid" = "Captcha invalide"; //无需注意长度
+"Captcha is wrong" = " Erreur Captcha "; //无需注意长度
+"User not register" = "Utilisateur inco."; //无需注意长度
+"Image is illegal" = "Erreur image"; //无需注意长度
+"Group not exists" = "Groupe inexistant"; //无需注意长度
+"User already join Group" = "Utilisateur déjà dans groupe"; //无需注意长度
+"User not member of Group" = "Utilisateur hors groupe"; //无需注意长度
+"Unknown error" = "Erreur"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "Rappel hydratation";
+"Starting time" = "Heure début";
+"End Time" = "Heure fin";
+"Water" = "Eau";
+"Time interval" = "Intervale";
+"Remind" = "Rappel";
+"Setting success" = "Programmation OK"; //无需注意长度
+"Drink" = "Boire";
+
+// 20160418+
+"Turn the hand" = "Tournez main";
+
+
+// 20160912+
+"Times / min" = "Puls./min";
+
+// 20170105+
+"Temperature" = "Température";
+"Find the phone" = "Trouvé un téléphone mobile";
+"Find phone" = "Cherche le téléphone mobile";
+
+// 20170215+
+"SMS Notification" = "Alertes SMS";
+"Notice reminder" = "Alertes de notification";
+
+
+

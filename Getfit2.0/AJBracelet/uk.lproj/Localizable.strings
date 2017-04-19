@@ -1,0 +1,421 @@
+
+"App error, exit soon" = "Помилка програми, вихід."; //无需注意长度
+"Mainpage" = "Головна";
+"Details" = "Деталі";
+"Device" = "Пристрій";
+"User" = "Користувач";
+"Cancel" = "Скасування";
+"Confirm" = "ОК";
+"Setting" = "Настройки";
+"Today" = "Сьогодні";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "Збережено, але не надіслано на пристрій. Перевірте з'єднання і натисніть Надіслати ще раз."; //无需注意长度
+"Ble Data Send Time Out" = "Помилка";
+"Device Ble data written failed" = "Помилка";
+"No Data" = "Немає даних";
+"Network access error, please check the network connectivity, please try again later" = "Помилка доступу до мережі"; //无需注意长度
+"Y" = "Р";
+"M" = "М";
+"D" = "Д";
+"H" = "Г";
+"Hour" = "год.";
+
+"Min" = "хв";
+"Minutes" = "хв";
+"S" = "с";
+"Step" = "кроків";
+
+"KM" = "Км";
+"MI" = "mi";
+
+"Cal" = "Кал ";
+"Calorie" = "Калорій";
+"kCal" = "ккал";
+
+"Goal Setting" = "Цілі";
+"unsync " = "Бр.";
+"Firmware version" = "Версія прошивки";
+"Firmware version:V" = "Версія прошивки: V";
+"Battery remaining" = "Заряд";
+"Data synced at" = "Синхронізовано"; // +
+
+"Heart Rate" = "Пульс";
+
+"Call Alert" = "Виклик";
+"Sedentary Alert" = "Бездіяльність";
+"Alarm Alert" = "Будильник";
+"ON" = "Ввімк.";
+"OFF" = "Вимк.";
+"Unbind Success" = "Відключено";
+"Multi-Lists" = "Мульти-список";
+"Unbind" = "Відключення";
+"Pair Device" = "Підключення";
+"Device Name" = "Назва"; // +
+
+"MaxHeart" ="Макс.Пульс";
+"MinHeart" ="Мін.Пульс";
+"AverageHeart" ="Ср.Пульс";
+"Heart" = "Пульс";
+
+"Connect Device" = "Підключити пристрій";
+"Add Device" = "Додати";
+"Refresh" = "Оновити";
+"Confirm Bind Device" = "Підтвердити";
+"Search Failed, click the icon to refresh searching the device" = "Помилка. Натисніть Оновити"; //无需注意长度
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "Переконайтеся в тому, що ваш пристрій ввімкнений та перебуває поруч"; //无需注意长度
+"Searching" = "Пошук...";
+"Can Update" = "Оновлення";
+"Latest Version" = "Нова версія";
+"User Profile" = "Профіль";
+"Boy" = "Чоловік";
+"Girl" = "Жінка";
+"Last" = "Назад";
+"Next" = "Далі";
+"Metric" = "Метри";
+"British" = "Дюйми";
+"Weight" = "Вага";
+"Sports Target" = "Спортивні цілі";
+"Daily Target" = "Щоденні цілі";
+
+"Sleep Target" = "Цілі сну";
+"Birth" = "ДН";
+"Done" = "Готово";
+"Personal Profile" = "Особистий профіль";
+"Username" = "Ім'я";
+"Gender" = "Стать";
+"Birthday" = "День народження";
+"Height" = " Зріст";
+"Weight" = "Вага";
+"Daily Target" = "Щоденні цілі";
+"Target Setting" = "Настройки";
+"My info" = "Про мене";
+"Please type in your name" = "Введіть ім'я";
+// 升级
+"System Setting" = "Настройки";
+"Device Update" = "Оновлення";
+"Current Version" = "Поточна версія";
+"Update details" = "Деталі";
+"connecting device" = "З'єднання";
+"Please choose a device..." = "Виберіть пристрій......";
+"Auto Update" = "Авт. Оновлення";
+"Update Now" = "Оновити";
+"Downloading and Updating" = "Завантаження та оновлення";
+"Updating" = "Оновлення";
+"Prepare for update" = "Приготуйтеся до оновлення";
+"Connecting" = "З'єднання";
+"Disconnecting" = "Відключення";
+"Update Complete" = "Виконано";
+"Low power, unable to update" = "Заряд АКБ низький";
+"Not support for update " = "Не підтримується";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "Помилка оновлення. спробуйте пізніше";
+" Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "Переконайтеся в тому, що заряд вашого пристрою достатній для оновлення. Оновлення займе 5 хвилин, не відкючайте пристрій в процесі оновлення.";
+
+"Weather On/OFF" = "Погода Ввімк. / Вимк.";
+"Unit Set" = "Одиниці";
+"Sports Medal" = "Медалі";
+"Daily Time Notice" = "Щоденні нагадування";
+"About Us" = "Про нас";
+"APP Version" = "Версія";
+"Normal Problem" = "Проблеми";
+"Distance" = "Відстань";
+"Total distance" = "Загальна відстань";
+"Temp" = "Темп.";
+"This smart phone not support Bluetooth" = "Цей смартфон не підтримує ВТ";
+"Call Alert" = "Виклик";
+"SMS Alert" = "SMS";
+"Wechat Alert" = "Wechat";
+"Email Alert" = "E-mail";
+"QQ Alert" = "QQ";
+"Anti-lost Alert" = "Анти-втрата";
+"Music Control" = "Керування плеєром";
+"One Key Call" = " Швидкий виклик";
+"Photograph" = "Фото";
+"All Day Sync" = "Синхронізація";
+"Device Update" = "Оновлення";
+"Find Wristband" = "Знайти браслет";
+"Find Phone" = " Знайти телефон";
+"Alarm List Setting" = "Настройки повідомлень";
+"Add Alarm List" = "Додати ";
+"3 alarm lists could be added" = "Можна додати 3 списки";
+"Alert" = "Сигнал";
+"Repeat" = "Повтор";
+"Time" = "Час ";
+"Total time" = "Загальний час";
+"Name" = "ім'я";
+"Please remind me during this time" = "Виклик";
+"Mon" = "Пн.";
+"Tue" = "Вт.";
+"Wed" = "Ср.";
+"Thu" = "Чт.";
+"Fri" = "Пт.";
+"Sat" = "Сб.";
+"Sun" = "Нд.";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  Нд            Пн              Вт               Ср                 Чт               Пт               Сб";
+
+"Remind name is as more as 6 words" = "Назва занадто довга";
+"am" = "АМ";
+"pm" = "РМ";
+"Sedentary Alert" = "Бездіяльність";
+"Start" = "Початок";
+"End" = "Кінець";
+"Pull-down Refresh" = "Потягніть для оновлення";
+"Release Refresh" = "Відпустіть для оновлення";
+"Synced" = "Синхронізовано";
+"go to The Day" = "Перейти до";
+"back to Today" = "Сьогодні";
+
+"Deep Sleep/min" = "Глибокий сон / хв";
+"Light Sleep/min" = "Легкий сон / хв";
+"Awake Hours/min" = "Активність / хв";
+"Deep Sleep" = "Глиб. сон";
+"Light Sleep" = "Легк. сон";
+"Awake Sleep" = "Активність  ";
+
+"Week" = "Т";
+"Month" = "М";
+"Year" = "Р";
+"Activities" = "Активність";
+"Sleep" = "Сон";
+"Total" = "Всього";
+"Deep" = "Глибокий";
+"Light" = "Легкий";
+
+"Profile Photo Setting" = "Фото профіля";
+"Remove photo" = "Видалити";
+"Choose Current Photo" = "Вибрати";
+"Take Photo" = "Фото";
+
+"Unbind the device? \nData waitting for sync will be lost." = "Відключити пристрій? \n Всі дані будуть втрачені."; //无需注意长度
+"Delete Device" = "Видалення пристрою";
+"Delete" = "Видалити";
+
+// 拍照
+"Photograph setting" = "Настройки фотозйомки";
+"device upgrade" = "Оновлення";
+"Continuous Shoot" = "Серійна зйомка";
+"Interval" = "Інтервал";
+"s" = "с";
+"pc" = "шт.";
+"Choose a pic from album" = "Вибрати фото";
+"After a call come in" = "Після виклика";
+"s Band vibrates to remind" = "с вібрація.";
+"Everyday" = "Кожен день";
+"Go to sleep" = "Спати";
+"Get Up" = " Підйом";
+"Exercise" = "Вправи";
+"Dating" = "Побачення";
+"Party" = "Вечірка";
+"Meeting" = "Зустріч";
+"Take Medication" = "Ліки";
+"Custom" = "Своє";
+"The current is latest version." = "Найновіша версія";
+"Anti-lost Setting Done" = "Виконано";
+"Synchronizing" = "Синхронізація";
+"Bind OK" = "З'єднано";
+"Bind Success" = "Виконано";
+"%ldMin" = "%ld хв";
+"%dMin" = "%d хв";
+"Cancel" = "Скасування";
+"Please connect to the device" = "Підключіть пристрій";
+"Device not Connected" = "Пристрій не підключено";
+"Share" = "Поділитися";
+"Friends" = "Друзі";
+"Wechat" = "WeChat";
+"Network Error" = "Помилка мережі";
+"Signal Strength" = "Рівень сигналу";
+"Please confirm:" = "Підтвердіть:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1. Активація дисплея при пошуку пристрою.\n2. Bluetooth на смартфоні ввімкнений.\n3. Пристрій в радіусі 10 метрів від смартфона";
+"Searching device..." = "Пошук ...";
+"Skip" = "Далі";
+
+"Week Distance" = "Тижд.Відстань";
+"Week Steps" = "Тижд.Кроки";
+"Week Calories" = "Тижд.Калорії";
+"Average Distance" = "Серед.Калорії";
+"Average Steps" = "Серед.Кроки";
+"Average Calories" = "Серед.Калорії";
+"Month Distance" = " Міс.Відстань";
+"Month Steps" = "Міс.Кроки";
+"Month Calories" = "Міс.Калорії";
+"Year Distance" = "Рік.Відстань";
+"Year Steps" = "Рік.Кроки";
+"Year Calories" = "Рік.Калорії";
+"Average Sleep" = "Серед.Сон";
+"Average Deep" = "Серед.Глибокий";
+"Average Light" = "Серед.Легкий";
+"Start Time" = "Початок";
+
+"Sleep Start Time" = "Початок сну";
+"End Time" = "Кінець";
+"Sleep End Time" = "Кінець сну";
+"Awake Time" = "Активність";
+"MultiLists" = "Список";
+"Single group" = "Група";
+"Multi-Lists" = "Список";
+
+"Restart Device" = "Перезавантаження";
+"Back" = "Назад";
+"Scanning" = "Сканування";
+
+"Already Latest Version" = "Найновіша версія";
+"Get Logs" = "Логи";
+"Setting Done" = "Виконано";
+"Functions" =  "Функції";
+"User Manual" = "Інструкції";
+"Version ID" =  "Версія：";
+"APP Version" = "Версія програми";
+"Device under low power" = "Низький заряд АКБ";
+"Remind after" = "Нагадати після";
+"Remind Time" = "Час";
+"mins without movement" = "хв. Без руху";
+
+"Total cost" = "Загальна вартість";
+
+"Device is under low battery" = "Низький заряд АКБ..";
+"Update Failed" =  "Помилка оновлення";
+"Automatically Syncing" = "Авт. Синхронізація";
+"Manual Syncing" = "Ручна синхронізація";
+"Please Wait"  =  "Зачекайте";
+"Device not paired" =  "Пристрій не підключено";
+"Reboot Done" =  "Перезавантажено";
+"Update Done" =  "Оновлене";
+"Reboot the device? Data will be synced before reboot" =  "Перезавантажити?";
+"Confirm Reboot" =  "Підтвердіть перезавантаження";
+"Sync Failed" = "Помилка синхронізації";
+"Current version is the latest version" =  "Найновіша версія";
+"Current version is the latest version" =  "Найновіша версія";
+"Please pair the device" = "Підключіть пристрій";
+"Update Done" =  "Виконано";
+"Congratulations! Update successfully!" =  "Оновлено "; //无需注意长度
+
+"Sync Done" =  "Синхронізовано";
+"Feet" =  "Фути";
+"Pound" =  "Фунти";
+
+// 聊天界面模块
+"Send" = "Надіслати";
+"Server connection failed" = "Помилка"; //无需注意长度
+"Log in" = "Вхід";
+"Username and password \n can not be empty" = "Логін і пароль \n не можуть бути порожніми"; //无需注意长度
+"Forgot password" = "Забули пароль";
+"Registered" = "Зареєстрований";
+"Username:" = "Логін:";
+"Email:" = "E-mail: ";
+"Please enter 4-18 digits \n or letters username" = "Введіть 4-18 цифр \n або літер"; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = "Введіть 6-18 цифр \n або літер"; //无需注意长度
+"The two passwords do not match" = "Паролі не збігаються"; //无需注意长度
+"Email wrong format" = "Помилка E-mail"; //无需注意长度
+"Password:" = "Пароль:";
+"RepeatPSD:" = "Ще раз:";
+"Password has been sent to your mailbox" = "Пароль надісланий на вашу поштову скриньку"; //无需注意长度
+"OK" = "Ок";
+"Codes has been sent" = "Коди надіслані"; // + //无需注意长度
+"Codes" = "Коди"; // +
+
+"Tourism" = "Туризм";
+"Scan QR code" = "Сканувати QR-код";
+"SearchID" = "Пошук";
+"Create group" = "Створити групу";
+"Search" = "Пошук";
+"Join" = "Приєднатися";
+"Contacts" = "Контакти";
+"Select Contacts" = "Вибрати";
+"Search for contacts" = "Пошук";
+"The group is not found , make sure \n the group account after retries" = "Не знайдено"; //无需注意长度
+"Edit group information" = "Змінити інформацію";
+"Failed to update group information" = "Помилка"; //无需注意长度
+"Close" = "Закрити";
+"Updates Success" = "Оновлено"; //无需注意长度
+"Updates Failed" = "Помилка"; //无需注意长度
+"Creation Failed" = "Помилка"; //无需注意长度
+"Creating Success" = "Виконано"; //无需注意长度
+"Get group list failed" = "Помилка завантаження"; //无需注意长度
+"Update group members list failed" = "Помилка завантаження"; //无需注意长度
+"Group Name" = "Назва";
+"Address" = "Адреса";
+"Explanation" = "Пояснення";
+
+"Join group" = "Приєднатися до групи";
+"Quit Group" = "Покинути групу";
+"The dissolution of the group" = "Опис";
+"Group No." = "Номер";
+"Join the group success" = "Виконано"; //无需注意长度
+"Failure to join the group" = "Помилка"; //无需注意长度
+"Successful exits group" = "Виконано"; //无需注意长度
+"Exit group fails" = "Помилка"; //无需注意长度
+"Success disbanded group" = "Виконано"; //无需注意长度
+"The dissolution of the group fails" = "Помилка"; //无需注意长度
+"Management group members" = "Керування";
+"Group members list" = "Список";
+"Edit group information" = "Змінити";
+"Notice" = "Нотатки";
+"Detail" = "Деталі";
+"Group Introduction" = "Назва";
+"people" = "Люди";
+"Submit" = "Застосувати";
+"Administrator" = "Адміністратор";
+"Alignment of QR code, \n it can automatically scan" = "Роспізнавання QR-коду, \n сканується автоматично";
+"Scan success" = "Виконано"; //无需注意长度
+"Scan fails" = "Помилка"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = "Ввімк.";
+"Turn off" = "Вимк.";
+"Group invitation has been sent" = "Запрошення надіслане"; //无需注意长度
+"Modify administrator rights fail" = "Помилка"; //无需注意长度
+"Remove group members fail" = "Помилка"; //无需注意长度
+"Settings for administrators" = "Настройки адміністратора";
+"Undo Administrator" = "Скасувати права адмін-ра";
+"Settings for \n administrators" = "Настройки \n адміністратора";
+"Undo \n Administrator" = "Скасувати \n  права адмін-ра";
+"Kicked out" = "Видалено";
+"Adding members" = "Додавання";
+"Management" = "Керування";
+"Lord" = "Головний";
+"Administrator" = "Адміністратор";
+"Normal group" = "стандартна група";
+"Multi chat group" = "Мульти-чат група";
+"Failure to accept the group invitation" = "Помилка отримання запрошення"; //无需注意长度
+"Joined" = "Приєднався";
+"Ignored" = "Проігноровано";
+"The user is not found , please try again confirm the account" = "Користувач не знайдений."; //无需注意长度
+"Own" = "Свої";
+"Friends" = "Друзі";
+"Add friend" = "Додати.";
+"Wrong username or password" = "Помилка логіна або пароля"; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = "Помилка"; //无需注意长度
+"Unauthorized" = "Не авторизований"; //无需注意长度
+"Forbidden" = "Заборонено"; //无需注意长度
+"Internal Server Error" = "Внутрішня помилка"; //无需注意长度
+"Gateway Time-out" = "Помилка шлюзу"; //无需注意长度
+"User exists" = "Вже існує"; //无需注意长度
+"Phone exists" = "Вже існує"; //无需注意长度
+"Email exists" = "Вже існує"; //无需注意长度
+"User or password error" = "Помилка логіна або пароля"; //无需注意长度
+"User device changed" = "Пристрій змінено"; //无需注意长度
+"Captcha has been invalid" = "Помилка"; //无需注意长度
+"Captcha is wrong" = "Помилка"; //无需注意长度
+"User not register" = "Не зареєстрований"; //无需注意长度
+"Image is illegal" = "Заборонено"; //无需注意长度
+"Group not exists" = "Група не існує"; //无需注意长度
+"User already join Group" = "Вже в групі"; //无需注意长度
+"User not member of Group" = "Не учасник групи"; //无需注意长度
+"Unknown error" = "Помилка"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "Вода";
+"Starting time" = "Початок";
+"End Time" = "Кінець";
+"Water" = "Вода";
+"Time interval" = "Інтервал";
+"Remind" = "Нагадування";
+"Setting success" = "Виконано"; //无需注意长度
+
+"Turn the hand" = "Пошук";
+
+
+// 20160912+
+"Times / min" = "Times / min";

@@ -1,0 +1,88 @@
+//
+//  PrefixHeader.pch
+//  AJBracelet
+//
+//  Created by zorro on 15/5/25.
+//  Copyright (c) 2015年 zorro. All rights reserved.
+//
+
+#ifndef AJBracelet_PrefixHeader_pch
+#define AJBracelet_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+#ifdef __OBJC__
+
+#import "KKHeader.h"
+#import "LKDBHelper.h"
+#import "MBHUDHelper.h"
+#import "XYPopupViewHelper.h"
+#import "ShareData.h"
+#import "UserInfoHelper.h"
+#import "UserInfoModel.h"
+
+#import "HomeDataManagerHelp.h"
+
+#endif
+
+#endif
+
+//  国际化文件
+#define BL_Text(string) NSLocalizedStringFromTable(string, @"BLLanguage", nil)
+
+#define DEFAULT_FONTHelvetica(s)     [UIFont fontWithName:@"Helvetica-Bold" size:s]
+
+#define DEFAULT_FONTMicrosoftYaHei(s)  [UIFont fontWithName:@"MicrosoftYaHei" size:s]
+
+#define DEFAULT_FONTsize(s)     [UIFont systemFontOfSize:s]
+
+
+// 默认用户名
+#define AJ_UserName @"User"
+#define AJ_DeviceName @"YDY_NRF_PROTOCOL"
+#define AJ_LastWareUUID @"AJ_LastWareUUID"
+#define AJ_FileCache_HeadImage @"HeadImage"
+#define AJ_LastWareVersion @"AJ_LastWareVersion"
+
+#define SAVEUPDATETIME @"SAVEUPDATETIME" //同步的时间
+
+#define SAVELASTUPDATETIME @"SAVELASTUPDATETIME" //上次同步的时间
+
+// 进入界面 保存用户完成key
+#define SAVEENTERUSERKEY @"SAVEENTERUSERKEY"
+
+//用户当前更新的时间
+#define USERUPDATEDATETIME @"USERUPDATEDATETIME"
+
+// 保存第一次用户使用时间
+#define SAVEFIRSTUSERDATE @"SAVEFIRSTUSERDATE"
+
+#define DEVICESVISION @"V1.0.1"
+
+#define AJ_FileCache_Firmware @"AJ_FileCache_Firmware"
+
+#define STEPORSLEEP @"STEPORSLEEP"
+
+// 周月年数据个数
+#define DATACOUNT @"DATACOUNT"
+
+// 个数
+#define DATAVALUECOUNT @"DATAVALUECOUNT"
+
+// 是否测试模式
+#define ISTESTMODEL 0
+
+// 是否开启公制/英制
+#define ISCHANGEMODEL 1
+
+#define BGCOLOR UIColorHEX(0xc84920)
+
+#define KK_MainColor UIColorHEX(0xc84920)
+#define KK_BgColor UIColorHEX(0x262626)
+
+#define KK_APP [UIApplication sharedApplication]
+
+// 语言国际化
+#define KK_Text(a) [NSObject KKLocalizedString:(a)]
+
+

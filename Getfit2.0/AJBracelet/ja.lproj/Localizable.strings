@@ -1,0 +1,442 @@
+/*
+ Localizable.strings
+ LanguageLocalized
+ 
+ Created by 李琼 on 15/8/28.
+ Copyright (c) 2015年 李琼. All rights reserved.
+ */
+
+"App error, exit soon" = "プログラムが異常で,まもなく終了します"; //无需注意长度
+"Mainpage" = "ホームページ";
+"Details" = "詳細";
+"Device" = "設備";
+"User" = "ユーザー";
+"Cancel" = "キャンセル";
+"Confirm" = "確認";
+"Setting" = "設定";
+"Today" = "今日";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "データは既に保存したが,まだ設備まで送ってない,設備接続の正常を確保した後,再発送をクリックしてください."; //无需注意长度
+"Ble Data Send Time Out" = "データの発送がタイムアウトになった";
+"Device Ble data written failed" = "設備の入力データは正常ではありません.";
+"No Data" = "データなし ";
+"Network access error, please check the network connectivity, please try again later" = "ネットワークを訪問する際にエラーで,インターネット接続の確認後,再試行ください"; //无需注意长度
+"Y" = "年";
+"M" = "月";
+"D" = "日";
+"H" = "時";
+"Hour" = "時間";
+
+"Min" = "分";
+"Minutes" = "分钟";
+"S" = "秒";
+"Step" = "歩";
+
+"KM" = "キロメートル";
+"MI" = "マイル";
+
+"Cal" = "カロリー";
+"Calorie" = "カロリー";
+"kCal" = "キロカロリー";
+
+"Goal Setting" = "目標設定";
+"unsync" = "未同期";
+"Firmware version" = "ファームウェアバージョン";
+"Firmware version:V" = "ファームウェアバージョン:V";
+"Battery remaining" = "バッテリ残量";
+"Data synced at" = "シンクロ時間"; // +
+
+"Heart Rate" = "心拍数";
+
+"Call Alert" = "着信注意";
+"Sedentary Alert" = "長座注意";
+"Alarm Alert" = "目覚まし時計";
+"ON" = "オン";
+"OFF" = "オフ";
+"Unbind Success" = "バインドを解除成功";
+"Multi-Lists" = "マルチ リスト";
+"Unbind" = "バインド解除";
+"Pair Device" = "設備とバインドする";
+"Device Name" = "设备の名称"; // +
+
+"MaxHeart" ="最大心拍数";
+"MinHeart" ="最小心拍数";
+"AverageHeart" ="平均心拍数";
+"Heart" = "心拍数";
+
+"Connect Device" = "設備の接続";
+"Add Device" = "設備の増加";
+"Refresh" = "リフレッシュ";
+"Confirm Bind Device" = "バインド確認";
+"Search Failed, click the icon to refresh searching the device" = "捜索失敗,アイコンをクリックして再更新します."; //无需注意长度
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "御設備の ブルートゥースがオンになってるのをご確認ください."; //无需注意长度
+"Searching" = "設備の捜索中";
+"Can Update" = "更新可能";
+"Latest Version" = "最新バージョン";
+"User Profile" = "個人情報";
+"Boy" = "男性";
+"Girl" = "女性";
+"Last" = "前";
+"Next" = "次";
+"Metric" = "メートル制";
+"British" = "イギリス制";
+"Weight" = "体重";
+"Sports Target" = "運動目標";
+"Daily Target" = "毎日の目標";
+
+"Sleep Target" = "睡眠目標";
+"Birth" = "生まれ";
+"Done" = "完成";
+"Personal Profile" = "個人情報";
+"Username" = "ユーザー名";
+"Gender" = "性別";
+"Birthday" = "誕生日";
+"Height" = "身長";
+"Weight" = "体重";
+"Daily Target" = "毎日目標";
+"Target Setting" = "目標設定";
+"My info" = "個人情報";
+"Please type in your name" = "名前を入力してください";  //+  //20160413
+// 升级
+"System Setting" = "システム設定";
+"Device Update" = "設備更新";
+"Current Version" = "現在バージョン";
+"Update details" = "更新内容";
+"connecting device" = "設備を連続中";
+"Please choose a device..." = "設備を選択してください...";
+"Auto Update" = "自動更新";
+"Update Now" = "すぐ更新";
+"Downloading and Updating" = "更新ファイルをダウンロード中";
+"Updating" = "更新中";
+"Prepare for update" = "バージョンアップの準備中";
+"Connecting" = "連続中";
+"Disconnecting" = "切れ中";
+"Update Complete" = "更新終了";
+"Low power, unable to update" = "バッテリ不足で更新できない";
+"Not support for update " = "更新が支持しない";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "更新失敗,設備は更新モードを退出してから再試行してください.";
+" Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "御設備のバッテリが十分であるかと確認します.全過程は約5分ほど持続します.更新中には連続が切れないでください.";
+
+"Weather On/OFF" = "天気スイッチ";
+"Unit Set" = "単位設定";
+"Sports Medal" = "運動成績のお知らせ";
+"Daily Time Notice" = "毎日時間のお知らせ";
+"About Us" = "私たちについて";
+"APP Version" = "APPバージョン";
+"Normal Problem" = "よくある質問";
+"Distance" = "距離";
+"Total distance" = "総距離";
+"Temp" = "温度";
+"This smart phone not support Bluetooth" = "携帯電話はブルートゥースを支持しない";
+"Call Alert" = "着信注意";
+"SMS Alert" = "ショートメッセージ注意";
+"Wechat Alert" = "ウィーチャット注意";
+"Email Alert" = "メール注意";
+"QQ Alert" = "QQ注意";
+"Anti-lost Alert" = "紛失防止の注意";
+"Music Control" = "ミュージックコントロール";
+"One Key Call" = "ワンタッチコール";
+"Photograph" = "写真を撮ります";
+"All Day Sync" = "終日自動更新";
+"Device Update" = "設備更新";
+"Find Wristband" = "ブレスレットを捜す";
+"Find Phone" = "携帯電話を捜す";
+"Alarm List Setting" = "アラームを設定します";
+"Add Alarm List" = "目覚まし時計";
+"3 alarm lists could be added" = "目覚まし時計リストを3個まで追加が可能です.";
+"Alert" = "注意";
+"Repeat" = "繰り返し";
+"Time" = "時間";
+"Total time" = "合計時間";
+"Name" = "名称";
+"Please remind me during this time" = "この時間に私を注意してください";
+"Mon" = "一";
+"Tue" = "二";
+"Wed" = "三";
+"Thu" = "四";
+"Fri" = "五";
+"Sat" = "六";
+"Sun" = "日";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  日             月               火              水              木               金             土";
+
+"Remind name is as more as 6 words" = "注意名称は多くとも6個字である";
+"am" = "午前";
+"pm" = "午後";
+"Sedentary Alert" = "長座注意";
+"Start" = "開始";
+"End" = "終了";
+"Pull-down Refresh" = "プルダウン更新";
+"Release Refresh" = "リリース更新";
+"Synced" = "同期済み";
+"go to The Day" = "この日を調べます";
+"back to Today" = "今日へ戻す";
+
+"Deep Sleep/min" = "熟睡/分間";
+"Light Sleep/min" = "仮眠/分間";
+"Awake Hours/min" = "覚醒時長/分間";
+"Deep Sleep" = "熟睡";
+"Light Sleep" = "仮眠";
+"Awake Sleep" = "覚醒睡眠";
+
+"Week" = "週";
+"Month" = "月";
+"Year" = "年";
+"Activities" = "活動";
+"Sleep" = "睡眠";
+"Total" = "総睡眠";
+"Deep" = "熟睡";
+"Light" = "仮眠";
+
+"Profile Photo Setting" = "基本資料の写真を設定します";
+"Remove photo" = "写真を取り除く";
+"Choose Current Photo" = "既存の写真を選択します";
+"Take Photo" = "写真を撮る";
+
+"Unbind the device? \nData waitting for sync will be lost." = "関連設備を解除しますか?　\n未同期のデータをなくすことがあります."; //无需注意长度
+"Delete Device" = "削除設備";
+"Delete" = "削除";
+
+// 拍照
+"Photograph setting" = "写真撮りの設定";
+"device upgrade" = "設備更新";
+"Continuous Shoot" = "連続写真を撮る";
+"Interval" = "間隔";
+"s" = "秒";
+"pc" = "枚";
+"Choose a pic from album" = "既存の写真を選択します";
+"After a call come in" = "着信電話";
+"s Band vibrates to remind" = "ブレスレットは何秒後から注意する";
+"Everyday" = "毎日";
+"Go to sleep" = "就寝";
+"Get Up" = "起床";
+"Exercise" = "锻炼";
+"Dating" = "デート";
+"Party" = "パーティー";
+"Meeting" = "会議";
+"Take Medication" = "薬を飲む";
+"Custom" = "カスタマイズ";
+"The current is latest version." = "これは既に最新バージョンである";
+"Anti-lost Setting Done" = "紛失設定成功";
+"Synchronizing" = "データを自動同期中";
+"Bind OK" = "バインド完了";
+"Bind Success" = "バインド成功";
+"%ldMin" = "%ld分";
+"%dMin" = "%d分";
+"Cancel" = "キャンセル";
+"Please connect to the device" = "設備を連続してください";
+"Device not Connected" = "設備を連続してない";
+"Share" = "シェアする";
+"Friends" = "モーメンツ";
+"Wechat" = "ウィーチャット";
+"Network Error" = "ネット状态はあまりよくない";
+"Signal Strength" = "信号強度";
+"Please confirm:" = "設備をバインドする際に御確認ください:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1.設備はオンにしてます.　\n2 .携帯電話のブルートゥースは開いてます.\n3 .設備と携帯電話は10メートル以内の距離です.";  //这句有疑惑 20160413  （\n 需要添加到日文里吗？）
+"Searching device..." = "設備を検索中...";
+"Skip" = "スキップ";
+
+"Week Distance" = "週距離";
+"Week Steps" = "週歩数";
+"Week Calories" = "週消耗";
+"Average Distance" = "毎日平均距離";
+"Average Steps" = "毎日平均歩数";
+"Average Calories" = "毎日平均消耗";
+"Month Distance" = "毎月総距離";
+"Month Steps" = "毎月総歩数";
+"Month Calories" = "毎月総消耗";
+"Year Distance" = "年総距離";
+"Year Steps" = "年総歩数";
+"Year Calories" = "年総消耗";
+"Average Sleep" = "毎日平均睡眠";
+"Average Deep" = "毎日平均熟睡";
+"Average Light" = "毎日平均仮眠";
+"Start Time" = "平均就寝時間";
+
+"Sleep Start Time" = "就寝時間";
+"End Time" = "平均覚醒時間";
+"Sleep End Time" = "覚醒時間";
+"Awake Time" = "毎日平均覚醒";
+"MultiLists" = "マルチ リスト";
+"Single group" = "シングル";
+"Multi-Lists" = "マルチリスト";
+
+"Restart Device" = "設備再起動";
+"Back" = "戻す";
+"Scanning" = "スキャン中";
+
+"Already Latest Version" = "既に最新バージョンである.";
+"Get Logs" = "日誌取得";
+"Setting Done" = "設定成功";
+"Functions" =  "機能紹介";
+"User Manual" = "ユーザーガイド";
+"Version ID" =  "バージョン番号:";
+"APP Version" = "ソフトバージョン";
+"Device under low power" = "設備のバッテリは十分でない";
+"Remind after" = "未活動時間";
+"Remind Time" = "長座時間";
+"mins without movement" = "分から提示します";
+
+"Total cost" = "otalコスト";
+
+"Device is under low battery" = "設備のバッテリは十分でない.";
+"Update Failed" =  "更新失敗.";
+"Automatically Syncing" = "自動同期データ中";
+"Manual Syncing" = "手動同期データ中";
+"Please Wait"  =  "少々お待ちください";
+"Device not paired" =  "設備に連続しなかった";
+"Reboot Done" =   "再起動完了";
+"Update Done" =   "更新完了";
+"Reboot the device? Data will be synced before reboot" =  "設備を再起動するかどうかは,再起動前にデータを同期します.";
+"Confirm Reboot" =  "再起動の確認";
+"Sync Failed" = "同期化失敗";
+"Current version is the latest version" =  "既に最新バージョンである.";
+"Current version is the latest version" =  "現在は既に最新バージョンである.";
+"Please pair the device" = "設備を連続してください";
+"Update Done" =  "完成済み";
+"Congratulations! Update successfully!" =  "アップ成功,おめでとうございます"; //无需注意长度
+
+"Sync Done" =  "同期完成";
+"Feet" =  "フィート";
+"Pound" =  "ポンド";     //  英镑  20160413
+
+// 聊天界面模块
+"Send" = "送信";
+"Server connection failed" = "サーバーへの連続は失敗です"; //无需注意长度
+"Log in" = "ログイン";
+"Username and password \n can not be empty" = "ユーザ名とパスワードは空にならない"; //无需注意长度
+"Forgot password" = "パスワードを取り戻します";
+"Registered" = "登録";
+"Username:" = "ユーザ名:";
+"Email:" = "電子メール:";
+"Please enter 4-18 digits \n or letters username" = "数字やアルファベット構成の4-18桁\nパスワードを入力してください"; //无需注意长度
+"Please enter 6-18 digits \n or letters username" = "数字やアルファベット構成の6-18桁\nパスワードを入力してください"; //无需注意长度
+"The two passwords do not match" = "前後パスワードは一致していません."; //无需注意长度
+"Email wrong format" = "アドレスのフォーマットはミスだ"; //无需注意长度
+"Password:" = "パスワード:";
+"RepeatPSD:" = "パスワードの繰り返し:";
+"Password has been sent to your mailbox" = "パスワードはすでに御メールに送信済み"; //无需注意长度
+"OK" = "確認";
+"Codes has been sent" = "検証ヤード送信済みだ"; // + //无需注意长度
+"Codes" = "検証ヤード"; // +
+
+"Tourism" = "旅行グループ";
+"Scan QR code" = "二次元コードスキャン";
+"SearchID" = "IID捜し";
+"Create group" = "旅行グループの作成";
+"Search" = "検索";
+"Join" = "加入";
+"Contacts" = "連絡先";
+"Select Contacts" = "連絡先の選択";
+"Search for contacts" = "連絡先の検索";
+"The group is not found , make sure \n the group account after retries" = "当グループが見つけられなかった,アカウント\nを確認してから,再試行してください."; //无需注意长度
+"Edit group information" = "グループ情報編集";
+"Failed to update group information" = "グループ情報更新失敗"; //无需注意长度
+"Close" = "閉じる";
+"Updates Success" = "情報更新成功"; //无需注意长度
+"Updates Failed" = "更新群情報の失敗"; //无需注意长度
+"Creation Failed" = "作成失敗"; //无需注意长度
+"Creating Success" = "作成成功"; //无需注意长度
+"Get group list failed" = "グループリストの取得は失敗だ"; //无需注意长度
+"Update group members list failed" = "グループメンバーリストの更新は失敗だ"; //无需注意长度
+"Group Name" = "旅行グループの名前";
+"Address" = "旅行グループの住所";
+"Explanation" = "説明";
+
+"Join group" = "グループを加入する";
+"Quit Group" = "グループを退出する";
+"The dissolution of the group" = "グループを解散する";
+"Group No." = "グループナンバー";
+"Join the group success" = "グループ加入成功"; //无需注意长度
+"Failure to join the group" = "グループ加入失敗"; //无需注意长度
+"Successful exits group" = "グループ退出成功"; //无需注意长度
+"Exit group fails" = "グループ退出失敗"; //无需注意长度
+"Success disbanded group" = "グループ解散成功"; //无需注意长度
+"The dissolution of the group fails" = "グループ解散失敗"; //无需注意长度
+"Management group members" = "グループメンバー管理";
+"Group members list" = "グループメンバーリスト";
+"Edit group information" = "グループ情報編集";
+"Notice" = "お知らせ";
+"Detail" = "詳細";
+"Group Introduction" = "グループ紹介";
+"people" = "人";
+"Submit" = "提出";
+"Administrator" = "管理員";
+"Alignment of QR code, \n it can automatically scan" = "二次元コードを合わせて,\n自動スキャンできます";
+"Scan success" = "スキャン成功"; //无需注意长度
+"Scan fails" = "スキャンエラー"; //无需注意长度
+
+// + 聊天系统补充部分0327
+"Turn on" = "オープン";
+"Turn off" = "クローズ";
+"Group invitation has been sent" = "グループの招待状を送信しました"; //无需注意长度
+"Modify administrator rights fail" = "管理者権限を改正する失敗した"; //无需注意长度
+"Remove group members fail" = "グループメンバーを削除失敗"; //无需注意长度
+"Settings for administrators" = "管理者のためを設定";
+"Undo Administrator" = "管理者を取り消す";
+"Settings for \n administrators" = "設置され\n管理者";
+"Undo \n Administrator" = "取り消す \n 管理者";
+"Kicked out" = "グループから追い出された";
+"Adding members" = "グループメンバーを増加する.";
+"Management" = "管理";
+"Lord" = "管理員";
+"Administrator" = "管理員";
+"Normal group" = "普通のグループ";
+"Multi chat group" = "多機能チャットグループ";
+"Failure to accept the group invitation" = "グループの招待状を受け入れ失敗"; //无需注意长度
+"Joined" = "加わってきた";
+"Ignored" = "無視された";
+"The user is not found , please try again confirm the account" = "このユーザーが見つからない,アカウントを再確認しておくリトライ"; //无需注意长度
+"Own" = "自分";
+"Friends" = "友達";
+"Add friend" = "友達を追加する";
+"Wrong username or password" = "ユーザーID,またはパスワードに間違いがあります"; //无需注意长度
+
+// + 聊天模块追加0328
+"Bad Request" = "失敗を請求する"; //无需注意长度
+"Unauthorized" = "登録無し"; //无需注意长度
+"Forbidden" = "アクセス禁止"; //无需注意长度
+"Internal Server Error" = "サーバー異常"; //无需注意长度
+"Gateway Time-out" = "ゲートウェイタイムアウト"; //无需注意长度
+"User exists" = "このユーザーはすでに登録している"; //无需注意长度
+"Phone exists" = "この携帯番号はすでに登録している"; //无需注意长度
+"Email exists" = "このイーメールはすでに登録している"; //无需注意长度
+"User or password error" = "ユーザー,またはパスワードエラー"; //无需注意长度
+"User device changed" = "ユーザの設備が換えた"; //无需注意长度
+"Captcha has been invalid" = "検証コードの期限が過ぎる"; //无需注意长度
+"Captcha is wrong" = "検証コードが間違い"; //无需注意长度
+"User not register" = "このユーザーが存在しない"; //无需注意长度
+"Image is illegal" = "この写真は合法的ない"; //无需注意长度
+"Group not exists" = "グループが存在しない"; //无需注意长度
+"User already join Group" = "ユーザーはすでにグループを加入した"; //无需注意长度
+"User not member of Group" = "ユーザーはグループのメンバーがない"; //无需注意长度
+"Unknown error" = "未知のエラー"; //无需注意长度
+
+// 喝水提醒
+"Remind drink" = "飲水提示";
+"Starting time" = "開始時間";
+"End Time" = "終了時間";
+"Water" = "飲水量";
+"Time interval" = "時間間隔";
+"Remind" = "注意可否";
+"Setting success" = "設定の成功"; //无需注意长度 */
+
+
+
+
+
+"Turn the hand" = "明るい画面";
+
+
+
+// 20160912+
+"Times / min" = "Times / min";
+
+
+
+
+
+
+
+
+

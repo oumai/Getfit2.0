@@ -1,0 +1,439 @@
+/*
+ Localizable.strings
+ LanguageLocalized
+ 
+ Created by 李琼 on 15/8/28.
+ Copyright (c) 2015年 李琼. All rights reserved.
+ */
+
+"App error, exit soon" = "App error, exit soon";
+"Mainpage" = "Mainpage";
+"Details" = "Details";
+"Device" = "Device";
+"User" = "User";
+"Cancel" = "Cancel";
+"Confirm" = "Confirm";
+"Setting" = "Setting";
+"Today" = "Today";
+"Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend" = "Data has been stored, but not been sent in the device yet. Please make sure the device is connected, and click resend";
+"Ble Data Send Time Out" = "Ble Data Send Time Out";
+"Device Ble data written failed" = "Device Ble data written failed";
+"No Data" = "No Data";
+"Network access error, please check the network connectivity, please try again later" = "Network access error, please check the network connectivity, please try again later";
+"Y" = "Y";
+"M" = "M";
+"D" = "D";
+"H" = "H";
+"Hour" = "Hour";
+
+"Min" = "Min";
+"Minutes" = "Minutes";
+"S" = "S";
+"Step" = "Step";
+
+"KM" = "KM";
+"MI" = "MI";
+
+"Cal" = "Cal";
+"Calorie" = "Calorie";
+"kCal" = "kCal";
+
+"Goal Setting" = "Goal Setting";
+"unsync" = "unsync";
+"Firmware version" = "Firmware version";
+"Firmware version:V" = "Firmware version:V";
+"Battery remaining" = "Battery remaining";
+"Data synced at" = "Data synced at";
+
+"Heart Rate" = "Heart Rate";
+
+"Call Alert" = "Call Alert";
+"Sedentary Alert" = "Sedentary Alert";
+"Alarm Alert" = "Alarm Alert";
+"ON" = "ON";
+"OFF" = "OFF";
+"Unbind Success" = "Unbind Success";
+"Multi-Lists" = "Multi-Lists";
+"Unbind" = "Unbind";
+"Pair Device" = "Pair Device";
+"Device Name" = "Device Name"; // +
+
+"MaxHeart" ="Max";
+"MinHeart" ="Min";
+"AverageHeart" ="Average";
+"Heart" = "Heart";
+
+"Connect Device" = "Connect Device";
+"Add Device" = "Add Device";
+"Refresh" = "Refresh";
+"Confirm Bind Device" = "Confirm Bind Device";
+"Search Failed, click the icon to refresh searching the device" = "Search Failed, click the icon to refresh searching the device";
+"Please make sure your BLE device bluetooth is ON and it is near the phone" = "Please make sure your BLE device bluetooth is ON and it is near the phone";
+"Searching" = "Searching";
+"Can Update" = "Can Update";
+"Latest Version" = "Latest Version";
+"User Profile" = "User Profile";
+"Boy" = "Boy";
+"Girl" = "Girl";
+"Last" = "Last";
+"Next" = "Next";
+"Metric" = "Metric";
+"British " = "British ";
+"Weight " = "Weight ";
+"Sports Target" = "Sports Target";
+"Daily Target" = "Daily Target";
+
+"Sleep Target" = "Sleep Target";
+"Birth" = "Birth";
+"Done" = "Done";
+"Personal Profile" = "Personal Profile";
+"Username" = "Username";
+"Gender" = "Gender";
+"Birthday" = "Birthday";
+"Height" = "Height";
+"Weight" = "Weight";
+"Daily Target" = "Daily Target";
+"Target Setting" = "Target Setting";
+"My info" = "My info";
+"Please type in your name" = "Please type in your name";
+
+// 升级
+"System Setting" = "System Setting";
+"Device Update" = "Device Update";
+"Current Version" = "Current Version";
+"Update details" = "Update details";
+"connecting device" = "connecting device";
+"Please choose a device..." = "Please choose a device...";
+"Auto Update" = "Auto Update";
+"Update Now" = "Update Now";
+"Downloading and Updating" = "Downloading and Updating";
+"Updating" = "Updating";
+"Prepare for update" = "Prepare for update";
+"Connecting" = "Connecting";
+"Disconnecting" = "Disconnecting";
+"Update Complete" = "Update Complete";
+"Low power, unable to update" = "Low power, unable to update";
+"Not support for update" = "Not support for update";
+
+"Update failed, please wait the device to quit the update mode and try again later" = "Update failed, please wait the device to quit the update mode and try again later";
+"Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating" = "Please make sure your device is enough power   the update process will take around 5 minutes please do not disconnect the device during the updating";
+
+"Weather On/OFF" = "Weather On/OFF";
+"Unit Set" = "Unit Set";
+"Sports Medal" = "Sports Medal";
+"Daily Time Notice" = "Daily Time Notice";
+"About Us" = "About Us";
+"APP Version" = "APP Version";
+"Normal Problem" = "Normal Problem";
+"Distance" = "Distance";
+"Total distance" = "Total distance";
+"Temp" = "Temp";
+"This smart phone not support Bluetooth" = "This smart phone not support Bluetooth";
+"Call Alert" = "Call Alert";
+"SMS Alert" = "SMS Alert";
+"Wechat Alert" = "Wechat Alert";
+"Email Alert" = "Email Alert";
+"QQ Alert" = "QQ Alert";
+"Anti-lost Alert" = "Anti-lost Alert";
+"Music Control" = "Music Control";
+"One Key Call" = "One Key Call";
+"Photograph" = "Photograph";
+"All Day Sync" = "All Day Sync";
+"Device Update" = "Device Update";
+"Find Wristband" = "Find Wristband";
+"Find Phone" = "Find Phone";
+"Alarm List Setting" = "Alarm List Setting";
+"Add Alarm List" = "Add Alarm List";
+"3 alarm lists could be added" = "3 alarm lists could be added";
+"Alert" = "Alert";
+"Repeat" = "Repeat";
+"Time" = "Time";
+"Total time" = "Total time";
+"Name" = "Name";
+"Please remind me during this time" = "Please remind me during this time";
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat" =
+"  Sun            Mon              Tue             Wed             Thu              Fri            Sat";
+
+"Remind name is as more as 6 words" = "Remind name is as more as 6 words";
+"am" = "am";
+"pm" = "pm";
+"Sedentary Alert" = "Sedentary Alert";
+"Start" = "Start";
+"End" = "End";
+"Pull-down Refresh" = "Pull-down Refresh";
+"Release Refresh" = "Release Refresh";
+"Synced" = "Synced";
+"go to The Day" = "go to The Day";
+"back to Today" = "back to Today";
+
+"Deep Sleep/min" = "Deep Sleep/min";
+"Light Sleep/min" = "Light Sleep/min";
+"Awake Hours/min" = "Awake Hours/min";
+"Deep Sleep" = "Deep Sleep";
+"Light Sleep" = "Light Sleep";
+"Awake Sleep" = "Awake Sleep";
+
+"Week" = "Week";
+"Month" = "Month";
+"Year" = "Year";
+"Activities" = "Activities";
+"Sleep" = "Sleep";
+"Total" = "Total";
+"Deep" = "Deep";
+"Light" = "Light";
+
+"Profile Photo Setting" = "Profile Photo Setting";
+"Remove photo" = "Remove photo";
+"Choose Current Photo" = "Choose Current Photo";
+"Take Photo" = "Take Photo";
+
+"Unbind the device? \nData waitting for sync will be lost." = "Unbind the device? \nData waitting for sync will be lost.";
+"Delete Device" = "Delete Device";
+"Delete" = "Delete";
+
+// 拍照
+"Photograph setting" = "Photograph setting";
+"device upgrade" = "device upgrade";
+"Continuous Shoot" = "Continuous Shoot";
+"Interval" = "Interval";
+"s" = "s";
+"pc" = "pc";
+"Choose a pic from album" = "Choose a pic from album";
+"After a call come in" = "After a call come in";
+"s Band vibrates to remind" = "s Band vibrates to remind";
+"Everyday" = "Everyday";
+"Go to sleep" = "Go to sleep";
+"Get Up" = "Get Up";
+"Exercise" = "Exercise";
+"Dating" = "Dating";
+"Party" = "Party";
+"Meeting" = "Meeting";
+"Take Medication" = "Take Medication";
+"Custom" = "Custom";
+"The current is latest version." = "The current is latest version.";
+"Anti-lost Setting Done" = "Anti-lost Setting Done";
+"Synchronizing" = "Synchronizing";
+"Bind OK" = "Bind OK";
+"Bind Success" = "Bind Success";
+"%ldMin" = "%ldMin";
+"%dMin" = "%dMin";
+"Cancel" = "Cancel";
+"Please connect to the device" = "Please connect to the device";
+"Device not Connected" = "Device not Connected";
+"Share" = "Share";
+"Wechat" = "Wechat";
+"Friends" = "Friends";
+"Network Error" = "Network Error";
+"Signal Strength" = "Signal Strength";
+"Please confirm:" = "Please confirm:";
+"1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone." = "1. Wake up the device (Screen on) when searching a device.\n2. Bluetooth on the smartphone is ON.\n3. Device is within 10 meters nearby the smartphone.";
+"Searching device..." = "Searching device...";
+"Skip" = "Skip";
+
+"Week Distance" = "Week Distance";
+"Week Steps" = "Week Steps";
+"Week Calories" = "Week Calories";
+"Average Distance" = "Average Distance";
+"Average Steps" = "Average Steps";
+"Average Calories" = "Average Calories";
+"Month Distance" = "Month Distance";
+"Month Steps" = "Month Steps";
+"Month Calories" = "Month Calories";
+"Year Distance" = "Year Distance";
+"Year Steps" = "Year Steps";
+"Year Calories" = "Year Calories";
+"Average Sleep" = "Average Sleep";
+"Average Deep " = "Average Deep ";
+"Average Light" = "Average Light";
+"Start Time" = "Start Time";
+
+"Sleep Start Time" = "Sleep Start Time";
+"End Time" = "End Time";
+"Sleep End Time" = "Sleep End Time";
+"Awake Time" = "Awake Time";
+"MultiLists" = "MultiLists";
+"Single group" = "Single group";
+"Multi-Lists" = "Multi-Lists";
+
+"Restart Device" = "Restart Device";
+"Back" = "Back";
+"Scanning" = "Scanning";
+
+"Already Latest Version" = "Already Latest Version";
+"Get Logs" = "Get Logs";
+"Setting Done" = "Setting Done";
+"Functions" =  "Functions";
+"User Manual" = "User Manual";
+"Version ID" =  "Version ID";
+"APP Version" = "APP Version";
+"Device under low power" = "Device under low power";
+"Remind after" = "Remind after";
+"Remind Time" = "Remind Time";
+"mins without movement" = "mins without movement";
+
+"Total cost" = "Total cost";
+
+"Device is under low battery" = "Device is under low battery";
+"Update Failed" =  "Update Failed";
+"Automatically Syncing" = "Automatically Syncing";
+"Manual Syncing" = "Manual Syncing";
+"Please Wait"  =  "Please Wait";
+"Device not paired" =  "Device not paired";
+"Reboot Done" =  "Reboot Done";
+"Update Done" =  "Update Done";
+"Reboot the device? Data will be synced before reboot" = "Reboot the device? Data will be synced before reboot";
+"Confirm Reboot" = "Confirm Reboot";
+"Sync Failed" = "Sync Failed";
+"Current version is the latest version" = "Current version is the latest version";
+"Current version is the latest version" = "Current version is the latest version";
+"Please pair the device" = "Please pair the device";
+"Update Done" =  "Update Done";
+"Congratulations! Update successfully!" = "Congratulations! Update successfully!";
+
+"Sync Done" = "Sync Done";
+"Feet" = "Feet";
+"Pound" = "Pound";
+
+// 聊天界面模块
+"Send" = "Send";
+"Server connection failed" = "Server connection failed";
+"Log in" = "Log in";
+"Username and password \n can not be empty" = "Username and password \n can not be empty";
+"Forgot password" = "Forgot password";
+"Registered" = "Registered";
+"Username:" = "Username:";
+"Email:" = "Email:";
+"Please enter 4-18 digits \n or letters username" = "Please enter 4-18 digits \n or letters username";
+"Please enter 6-18 digits \n or letters username" = "Please enter 6-18 digits \n or letters username";
+"The two passwords do not match" = "The two passwords do not match";
+"Email wrong format" = "Email wrong format";
+"Password:" = "Password:";
+"RepeatPSD:" = "RepeatPSD:";
+"Password has been sent to your mailbox" = "Password has been sent to your mailbox";
+"OK" = "OK";
+"Codes has been sent" = "Codes has been sent";
+"Codes" = "Codes";
+
+"Tourism" = "Tourism";
+"Scan QR code" = "Scan QR code";
+"SearchID" = "SearchID";
+"Create group" = "Create group";
+"Search" = "Search";
+"Join" = "Join";
+"Contacts" = "Contacts";
+"Select Contacts" = "Select Contacts";
+"Search for contacts" = "Search for contacts";
+"The group is not found , make sure \n the group account after retries" = "The group is not found , make sure \n the group account after retries";
+"Edit group information" = "Edit group information";
+"Failed to update group information" = "Failed to update group information";
+"Close" = "Close";
+"Updates Success" = "Updates Success";
+"Updates Failed" = "Updates Failed";
+"Creation Failed" = "Creation Failed";
+"Creating Success" = "Creating Success";
+"Get group list failed" = "Get group list failed";
+"Update group members list failed" = "Update group members list failed";
+"Group Name" = "Group Name";
+"Address" = "Address";
+"Explanation" = "Explanation";
+
+"Join group" = "Join group";
+"Quit Group" = "Quit Group";
+"The dissolution of the group" = "The dissolution of the group";
+"Group No." = "Group No.";
+"Join the group success" = "Join the group success";
+"Failure to join the group" = "Failure to join the group";
+"Successful exits group" = "Successful exits group";
+"Exit group fails" = "Exit group fails";
+"Success disbanded group" = "Success disbanded group";
+"The dissolution of the group fails" = "The dissolution of the group fails";
+"Management group members" = "Management group members";
+"Group members list" = "Group members list";
+"Edit group information" = "Edit group information";
+"Notice" = "Notice";
+"Detail" = "Detail";
+"Group Introduction" = "Group Introduction";
+"people" = "people";
+"Submit" = "Submit";
+"Administrator" = "Administrator";
+"Alignment of QR code, \n it can automatically scan" = "Alignment of QR code, \n it can automatically scan";
+"Scan success" = "Scan success";
+"Scan fails" = "Scan fails";
+
+// + 聊天系统补充部分
+"Turn on" = "Turn on";
+"Turn off" = "Turn off";
+"Group invitation has been sent" = "Group invitation has been sent";
+"Modify administrator rights fail" = "Modify administrator rights fail";
+"Remove group members fail" = "Remove group members fail";
+"Settings for administrators" = "Settings for administrators";
+"Undo Administrator" = "Undo Administrator";
+"Settings for \n administrators" = "Settings for \n administrators";
+"Undo \n Administrator" = "Undo \n Administrator";
+"Kicked out" = "Kicked out";
+"Adding members" = "Adding members";
+"Management" = "Management";
+"Lord" = "Lord";
+"Administrator" = "Administrator";
+"Normal group" = "Normal group";
+"Multi chat group" = "Multi chat group";
+"Failure to accept the group invitation" = "Failure to accept the group invitation";
+"Joined" = "Joined";
+"Ignored" = "Ignored";
+"The user is not found , please try again confirm the account" = "The user is not found , please try again confirm the account";
+"Own" = "Own";
+"Friends" = "Friends";
+"Add friend" = "Add friend";
+"Wrong username or password" = "Wrong username or password";
+
+// + 聊天模块追加
+"Bad Request" = "Bad Request";
+"Unauthorized" = "Unauthorized";
+"Forbidden" = "Forbidden";
+"Internal Server Error" = "Internal Server Error";
+"Gateway Time-out" = "Gateway Time-out";
+"User exists" = "User exists";
+"Phone exists" = "Phone exists";
+"Email exists" = "Email exists";
+"User or password error" = "User or password error";
+"User device changed" = "User device changed";
+"Captcha has been invalid" = "Captcha has been invalid";
+"Captcha is wrong" = "Captcha is wrong";
+"User not register" = "User not register";
+"Image is illegal" = "Image is illegal";
+"Group not exists" = "Group not exists";
+"User already join Group" = "User already join Group";
+"User not member of Group" = "User not member of Group";
+"Unknown error" = "Unknown error";
+
+// 喝水提醒
+"Remind drink" = "Remind drink";
+"Starting time" = "Starting time";
+"End Time" = "End Time";
+"Water" = "Water";
+"Time interval" = "Time interval";
+"Remind" = "Remind";
+"Setting success" = "Setting Success";
+
+
+
+"Turn the hand" = "Turn the hand";
+
+
+
+// 20160912+
+"Times / min" = "Times / min";
+
+
+
+
+
+
+
